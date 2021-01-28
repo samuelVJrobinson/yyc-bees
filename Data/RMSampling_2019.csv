@@ -1,0 +1,1378 @@
+ID,Latitude,Longitude,Community,Method,StartDay,StartMonth,EndDay,EndMonth,Year,Family,Genus,Species,Sex
+RM19-448,51.0539,-114.1044,Hillhurst,Blue Vane,30,Jul,6,Aug,2019,Andrenidae,Andrena,nivalis,F
+RM19-917,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Andrenidae,Andrena,sp.1,F
+RM19-102,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Andrenidae,Andrena,sp.2,M
+RM19-201,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Anthophora,bomboides,F
+RM19-304,51.0548,-114.1595,Wildwood,Blue Vane,3,Jul,17,Jul,2019,Apidae,Anthophora,bomboides,F
+RM19-542,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Anthophora,occidentalis,F
+RM19-001,50.8894,-114.0835,Silverado,Blue Vane,5,Jul,19,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-028,51.1234,-114.1773,Ranchlands,Blue Vane,2,Jul,16,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-036,51.0401,-114.0965,Sunalta,Blue Vane,4,Jul,18,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-046,51.0345,-114.0856,Mount Royal,Blue Vane,4,Jul,18,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-078,51.0196,-113.9681,Erin Woods,Blue Vane,4,Jul,18,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-082,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-095,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-114,50.9413,-114.0877,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-183,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-192,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-194,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-196,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-199,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-230,50.9667,-114.0819,Haysboro,Blue Vane,4,Jul,18,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-231,50.9667,-114.0819,Haysboro,Blue Vane,4,Jul,18,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-232,50.9667,-114.0819,Haysboro,Blue Vane,4,Jul,18,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-238,50.9549,-114.131,Cedarbrae,Blue Vane,5,Jul,19,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-244,51.0359,-114.162,Glendale,Blue Vane,3,Jul,17,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-253,51.0715,-114.2154,Cougar Ridge,Blue Vane,3,Jul,17,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-269,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-277,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-302,51.0298,-114.1501,Glenbrook,Blue Vane,3,Jul,17,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-318,50.9681,-114.0926,Haysboro,Blue Vane,4,Jul,18,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-321,50.9681,-114.0926,Haysboro,Blue Vane,4,Jul,18,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-340,51.0355,-114.1211,Killarney,Blue Vane,3,Jul,17,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-353,51.1507,-114.2313,Royal Oak,Blue Vane,2,Jul,16,Jul,2019,Apidae,Anthophora,terminalis,F
+RM19-418,51.0486,-113.9405,Penbrooke Meadows,Blue Vane,2,Aug,9,Aug,2019,Apidae,Anthophora,terminalis,F
+RM19-496,51.0199,-114.1464,Glamorgan,Blue Vane,1,Aug,8,Aug,2019,Apidae,Anthophora,terminalis,F
+RM19-504,51.1219,-114.1777,Ranchlands,Blue Vane,30,Jul,6,Aug,2019,Apidae,Anthophora,terminalis,F
+RM19-561,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Anthophora,terminalis,F
+RM19-640,50.9413,-114.0877,Canyon Meadows,Blue Vane,31,Jul,7,Aug,2019,Apidae,Anthophora,terminalis,F
+RM19-645,50.9378,-114.0153,Riverbend,Blue Vane,31,Jul,7,Aug,2019,Apidae,Anthophora,terminalis,F
+RM19-650,50.9399,-114.136,Woodbine,Blue Vane,31,Jul,7,Aug,2019,Apidae,Anthophora,terminalis,F
+RM19-717,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Anthophora,terminalis,F
+RM19-732,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Anthophora,terminalis,F
+RM19-896,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Anthophora,terminalis,F
+RM19-902,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Anthophora,terminalis,F
+RM19-906,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Anthophora,terminalis,F
+RM19-930,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Anthophora,terminalis,F
+RM19-1081,51.1105,-114.1486,Dalhousie,Blue Vane,19,Aug,30,Aug,2019,Apidae,Anthophora,terminalis,F
+RM19-1103,50.9381,-114.1044,Woodlands,Blue Vane,19,Aug,30,Aug,2019,Apidae,Anthophora,terminalis,F
+RM19-1175,51.0654,-114.0362,Renfrew,Blue Vane,19,Aug,30,Aug,2019,Apidae,Anthophora,terminalis,F
+RM19-1176,51.0654,-114.0362,Renfrew,Blue Vane,19,Aug,30,Aug,2019,Apidae,Anthophora,terminalis,F
+RM19-1198,51.0375,-114.146,Glendale,Blue Vane,19,Aug,30,Aug,2019,Apidae,Anthophora,terminalis,F
+RM19-1218,51.1518,-114.122,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Apidae,Anthophora,terminalis,F
+RM19-1356,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Anthophora,terminalis,F
+RM19-1423,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Anthophora,terminalis,F
+RM19-007,51.0647,-114.1407,Parkdale,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-008,51.0647,-114.1407,Parkdale,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-016,51.0638,-114.1233,St. Andrews Heights,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-027,51.1234,-114.1773,Ranchlands,Blue Vane,2,Jul,16,Jul,2019,Apidae,Apis,mellifera,F
+RM19-044,51.0345,-114.0856,Mount Royal,Blue Vane,4,Jul,18,Jul,2019,Apidae,Apis,mellifera,F
+RM19-094,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Apidae,Apis,mellifera,F
+RM19-099,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Apidae,Apis,mellifera,F
+RM19-122,50.9112,-114.042,Midnapore,Blue Vane,4,Jul,18,Jul,2019,Apidae,Apis,mellifera,F
+RM19-141,51.0649,-114.1399,Parkdale,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-142,51.0649,-114.1399,Parkdale,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-246,51.0616,-114.1966,West Springs,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-247,51.0616,-114.1966,West Springs,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-248,51.0616,-114.1966,West Springs,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-264,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-285,51.0904,-114.1335,Brentwood,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-287,51.0904,-114.1335,Brentwood,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-288,51.0904,-114.1335,Brentwood,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-293,51.0375,-114.146,Glendale,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-294,51.0375,-114.146,Glendale,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-296,51.0375,-114.146,Glendale,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-297,51.0375,-114.146,Glendale,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-298,51.0375,-114.146,Glendale,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-317,50.9681,-114.0926,Haysboro,Blue Vane,4,Jul,18,Jul,2019,Apidae,Apis,mellifera,F
+RM19-336,51.1207,-114.2264,Scenic Acres,Blue Vane,2,Jul,16,Jul,2019,Apidae,Apis,mellifera,F
+RM19-343,51.0355,-114.1211,Killarney,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-359,51.1514,-114.1193,Hidden Valley,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-363,51.1219,-114.1777,Ranchlands,Blue Vane,2,Jul,16,Jul,2019,Apidae,Apis,mellifera,F
+RM19-367,51.0991,-114.1228,Charleswood,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-371,51.0991,-114.1228,Charleswood,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-373,51.0991,-114.1228,Charleswood,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-374,51.0991,-114.1228,Charleswood,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-375,51.0991,-114.1228,Charleswood,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-376,51.0991,-114.1228,Charleswood,Blue Vane,3,Jul,17,Jul,2019,Apidae,Apis,mellifera,F
+RM19-381,51.0988,-114.1884,Silver Springs,Blue Vane,2,Jul,16,Jul,2019,Apidae,Apis,mellifera,F
+RM19-443,50.9459,-114.0294,Acadia,Blue Vane,31,Jul,7,Aug,2019,Apidae,Apis,mellifera,F
+RM19-450,51.0359,-114.162,Glendale,Blue Vane,1,Aug,8,Aug,2019,Apidae,Apis,mellifera,F
+RM19-451,51.0359,-114.162,Glendale,Blue Vane,1,Aug,8,Aug,2019,Apidae,Apis,mellifera,F
+RM19-497,51.0741,-114.0798,Mount Pleasant,Blue Vane,2,Aug,9,Aug,2019,Apidae,Apis,mellifera,F
+RM19-520,51.0957,-114.2045,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Apis,mellifera,F
+RM19-528,51.0957,-114.2045,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Apis,mellifera,F
+RM19-593,51.0401,-114.0965,Sunalta,Blue Vane,2,Aug,9,Aug,2019,Apidae,Apis,mellifera,F
+RM19-759,51.1207,-114.2264,Scenic Acres,Blue Vane,30,Jul,6,Aug,2019,Apidae,Apis,mellifera,M
+RM19-988,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-989,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-990,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-991,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-992,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-993,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-994,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-995,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-996,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-997,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1025,51.0411,-113.9299,Applewood Park,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1026,51.0411,-113.9299,Applewood Park,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1043,51.0548,-114.1595,Wildwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1044,51.0548,-114.1595,Wildwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1045,51.0548,-114.1595,Wildwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1046,51.0548,-114.1595,Wildwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1047,51.0548,-114.1595,Wildwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1048,51.0548,-114.1595,Wildwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1104,50.9381,-114.1044,Woodlands,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1115,51.1207,-114.2264,Scenic Acres,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1116,51.1207,-114.2264,Scenic Acres,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1123,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1124,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1125,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1126,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1127,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1128,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1177,51.0654,-114.0362,Renfrew,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1183,51.0401,-114.0965,Sunalta,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1184,51.0401,-114.0965,Sunalta,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1185,51.0401,-114.0965,Sunalta,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1186,51.0401,-114.0965,Sunalta,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1224,51.1184,-114.1515,Edgemont,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1238,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1341,51.0643,-114.1413,Parkdale,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1343,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1344,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1392,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1393,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1406,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1407,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1424,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-1425,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Apis,mellifera,F
+RM19-098,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,bifarius,F
+RM19-251,51.0715,-114.2154,Cougar Ridge,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,bifarius,F
+RM19-360,51.1514,-114.1193,Hidden Valley,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,bifarius,F
+RM19-521,51.0957,-114.2045,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,bifarius,F
+RM19-524,51.0957,-114.2045,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,bifarius,F
+RM19-723,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,bifarius,M
+RM19-964,51.1514,-114.1193,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,bifarius,M
+RM19-1029,50.9549,-114.131,Cedarbrae,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,bifarius,F
+RM19-1072,51.0302,-114.1078,Bankview,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,bifarius,M
+RM19-1417,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,bifarius,M
+RM19-474,51.1507,-114.2313,Royal Oak,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,bohemicus,F
+RM19-356,51.1631,-114.1224,Evanston,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,borealis,F
+RM19-424,51.0411,-113.9299,Applewood Park,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,borealis,F
+RM19-428,50.8894,-114.0835,Silverado,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,borealis,F
+RM19-552,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,borealis,F
+RM19-1109,51.0988,-114.1884,Silver Springs,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,borealis,M
+RM19-1178,51.0654,-114.0362,Renfrew,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,borealis,F
+RM19-004,51.0957,-114.2045,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-006,51.0957,-114.2045,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-011,51.0647,-114.1407,Parkdale,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-015,51.0638,-114.1233,St. Andrews Heights,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-023,51.1234,-114.1773,Ranchlands,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,centralis,F
+RM19-039,51.0401,-114.0965,Sunalta,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,centralis,F
+RM19-042,51.0345,-114.0856,Mount Royal,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,centralis,M
+RM19-071,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,centralis,F
+RM19-075,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,centralis,F
+RM19-076,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,centralis,F
+RM19-088,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,centralis,M
+RM19-125,50.9835,-113.9998,Ogden,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,centralis,M
+RM19-138,51.0643,-114.1413,Parkdale,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-139,51.0649,-114.1399,Parkdale,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-143,51.0539,-114.1044,Hillhurst,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,centralis,F
+RM19-158,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,centralis,M
+RM19-186,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,centralis,F
+RM19-243,51.0359,-114.162,Glendale,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,M
+RM19-254,51.0618,-114.215,West Springs,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-258,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-259,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-260,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-261,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,M
+RM19-262,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-265,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-266,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-267,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-268,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-271,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-273,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-274,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,M
+RM19-275,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-276,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,M
+RM19-278,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-279,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-280,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-282,51.0956,-114.2172,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-300,51.0298,-114.1501,Glenbrook,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-301,51.0298,-114.1501,Glenbrook,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-305,51.0548,-114.1595,Wildwood,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-341,51.0355,-114.1211,Killarney,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-349,51.1507,-114.2313,Royal Oak,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,centralis,F
+RM19-352,51.1507,-114.2313,Royal Oak,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,centralis,F
+RM19-355,51.1631,-114.1224,Evanston,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-357,51.0969,-114.1304,Brentwood,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,F
+RM19-361,51.1219,-114.1777,Ranchlands,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,centralis,F
+RM19-362,51.1219,-114.1777,Ranchlands,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,centralis,F
+RM19-365,51.1219,-114.1777,Ranchlands,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,centralis,F
+RM19-369,51.0991,-114.1228,Charleswood,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,centralis,M
+RM19-377,51.0988,-114.1884,Silver Springs,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,centralis,F
+RM19-380,51.0988,-114.1884,Silver Springs,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,centralis,F
+RM19-387,51.1076,-114.1649,Dalhousie,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,centralis,F
+RM19-388,51.1076,-114.1649,Dalhousie,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,centralis,F
+RM19-389,51.1076,-114.1649,Dalhousie,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,centralis,F
+RM19-390,51.1076,-114.1649,Dalhousie,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,centralis,F
+RM19-392,51.0711,-114.0907,Capitol Hill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,centralis,F
+RM19-393,51.0654,-114.0362,Renfrew,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,centralis,F
+RM19-397,51.0801,-114.0824,Rosemont,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,centralis,F
+RM19-398,51.0801,-114.0824,Rosemont,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,centralis,F
+RM19-401,51.0801,-114.0824,Rosemont,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,centralis,F
+RM19-402,51.0801,-114.0824,Rosemont,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,centralis,F
+RM19-403,51.0801,-114.0824,Rosemont,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,centralis,F
+RM19-405,51.0801,-114.0824,Rosemont,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,centralis,M
+RM19-406,51.0801,-114.0824,Rosemont,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,centralis,F
+RM19-410,51.0801,-114.0824,Rosemont,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,centralis,F
+RM19-413,51.0638,-114.1233,St. Andrews Heights,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-417,51.0486,-113.9405,Penbrooke Meadows,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-419,51.0196,-113.9681,Erin Woods,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-423,51.0404,-114.0303,Inglewood,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-426,51.0411,-113.9299,Applewood Park,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,F
+RM19-433,51.0711,-114.0907,Capitol Hill,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-434,51.0715,-114.2154,Cougar Ridge,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,F
+RM19-435,51.0715,-114.2154,Cougar Ridge,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,F
+RM19-436,51.0715,-114.2154,Cougar Ridge,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-460,51.0904,-114.1335,Brentwood,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-461,51.0904,-114.1335,Brentwood,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-462,51.0904,-114.1335,Brentwood,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-463,51.0904,-114.1335,Brentwood,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-465,51.0904,-114.1335,Brentwood,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-466,51.0904,-114.1335,Brentwood,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-467,51.1426,-114.171,Citadel,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-469,51.1426,-114.171,Citadel,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-472,51.1507,-114.2313,Royal Oak,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-473,51.1507,-114.2313,Royal Oak,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-475,51.1507,-114.2313,Royal Oak,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-476,51.1507,-114.2313,Royal Oak,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-479,51.1489,-114.2194,Royal Oak,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-482,51.0375,-114.146,Glendale,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-483,51.0375,-114.146,Glendale,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-485,51.0375,-114.146,Glendale,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,F
+RM19-491,51.0375,-114.146,Glendale,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,F
+RM19-495,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,centralis,F
+RM19-498,51.0932,-114.1259,Brentwood,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-499,51.0932,-114.1259,Brentwood,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-500,51.0932,-114.1259,Brentwood,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-502,51.1219,-114.1777,Ranchlands,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-503,51.1219,-114.1777,Ranchlands,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-505,50.9667,-114.0819,Haysboro,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,M
+RM19-506,50.9667,-114.0819,Haysboro,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,M
+RM19-507,50.9667,-114.0819,Haysboro,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,M
+RM19-508,50.9667,-114.0819,Haysboro,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,M
+RM19-509,50.9667,-114.0819,Haysboro,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,M
+RM19-512,51.1105,-114.1486,Dalhousie,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-513,51.1105,-114.1486,Dalhousie,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-516,51.0616,-114.1966,West Springs,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-517,51.0616,-114.1966,West Springs,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-518,51.0616,-114.1966,West Springs,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-522,51.0957,-114.2045,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,F
+RM19-523,51.0957,-114.2045,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,F
+RM19-527,51.0957,-114.2045,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-540,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,centralis,F
+RM19-553,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,centralis,M
+RM19-555,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,centralis,M
+RM19-559,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,centralis,F
+RM19-588,51.0218,-114.0831,Elbow Park,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-591,51.0114,-114.0691,Parkhill,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,F
+RM19-592,51.0401,-114.0965,Sunalta,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,F
+RM19-595,51.1076,-114.1649,Dalhousie,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-596,51.1076,-114.1649,Dalhousie,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-597,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-603,51.0302,-114.1078,Bankview,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-617,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,centralis,F
+RM19-618,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-619,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-620,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-621,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-622,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-623,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,centralis,F
+RM19-625,51.0643,-114.1413,Parkdale,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-628,51.0988,-114.1884,Silver Springs,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-629,51.0988,-114.1884,Silver Springs,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-630,51.0988,-114.1884,Silver Springs,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-631,51.0988,-114.1884,Silver Springs,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-632,51.0988,-114.1884,Silver Springs,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-633,51.0988,-114.1884,Silver Springs,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-634,51.0988,-114.1884,Silver Springs,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-635,50.9413,-114.0877,Canyon Meadows,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,M
+RM19-636,50.9413,-114.0877,Canyon Meadows,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,F
+RM19-637,50.9413,-114.0877,Canyon Meadows,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,M
+RM19-639,50.9413,-114.0877,Canyon Meadows,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,F
+RM19-641,50.9413,-114.0877,Canyon Meadows,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,M
+RM19-642,50.9413,-114.0877,Canyon Meadows,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,M
+RM19-646,50.9399,-114.136,Woodbine,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,F
+RM19-647,50.9399,-114.136,Woodbine,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,M
+RM19-648,50.9399,-114.136,Woodbine,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,M
+RM19-649,50.9399,-114.136,Woodbine,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,M
+RM19-651,50.9399,-114.136,Woodbine,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,M
+RM19-652,50.9399,-114.136,Woodbine,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,M
+RM19-653,50.9399,-114.136,Woodbine,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,M
+RM19-654,50.9399,-114.136,Woodbine,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,M
+RM19-655,50.9399,-114.136,Woodbine,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,F
+RM19-656,50.9399,-114.136,Woodbine,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,M
+RM19-658,50.9399,-114.136,Woodbine,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,F
+RM19-660,50.9399,-114.136,Woodbine,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,M
+RM19-661,50.9399,-114.136,Woodbine,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,M
+RM19-662,50.9399,-114.136,Woodbine,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,M
+RM19-663,50.9399,-114.136,Woodbine,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,M
+RM19-664,50.9399,-114.136,Woodbine,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,M
+RM19-665,50.9399,-114.136,Woodbine,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,centralis,F
+RM19-666,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-667,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,F
+RM19-668,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-673,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-674,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-675,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-676,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-680,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-681,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,F
+RM19-682,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,F
+RM19-684,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-685,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,F
+RM19-687,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-688,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-689,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-691,51.0889,-114.1494,Varsity,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-697,51.0889,-114.1494,Varsity,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-704,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,F
+RM19-706,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-708,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-709,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-710,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-711,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,F
+RM19-713,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-714,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-715,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,F
+RM19-716,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-718,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-719,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-720,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-721,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-722,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-724,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-725,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-726,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-727,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-728,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-730,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-731,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-733,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-734,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-736,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,F
+RM19-737,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,F
+RM19-740,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,F
+RM19-741,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-743,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,F
+RM19-744,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-745,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-746,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,F
+RM19-747,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-748,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-749,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,F
+RM19-751,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-752,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,F
+RM19-754,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,M
+RM19-755,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,F
+RM19-756,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,centralis,F
+RM19-761,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-762,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-763,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-764,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-765,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-766,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-768,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-770,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-771,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-772,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-776,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-777,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-778,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-780,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-782,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-783,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-784,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-785,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-786,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-787,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-788,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-789,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-790,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-791,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-792,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-793,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-794,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-795,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-797,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-798,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-799,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-800,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-801,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-802,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-803,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-804,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-805,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-806,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-807,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-808,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-809,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-810,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-811,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-812,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-813,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-814,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-815,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-816,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-817,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-818,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-819,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-820,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-821,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-822,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-824,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-825,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-826,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-827,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-828,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-829,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-830,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-832,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-833,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-834,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-835,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-836,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-837,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-838,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-839,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-840,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-841,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-842,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-843,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-844,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-845,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-846,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-847,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-848,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-849,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-850,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-851,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-852,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-853,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-854,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-855,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-856,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-857,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-858,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-859,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-860,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-861,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-862,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-863,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-864,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-865,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-866,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-867,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-868,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-869,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-871,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-872,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-873,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-874,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-875,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-876,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-877,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-878,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-879,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-880,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-881,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-882,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-883,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-884,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-885,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-886,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-887,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-888,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-889,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-890,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,M
+RM19-891,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-892,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,centralis,F
+RM19-894,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-901,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,centralis,F
+RM19-908,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,centralis,F
+RM19-909,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-911,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-912,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-913,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-914,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-920,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-921,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,centralis,M
+RM19-931,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,F
+RM19-932,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,F
+RM19-933,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,F
+RM19-934,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-935,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-936,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-937,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-938,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-939,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-940,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-941,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-942,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-943,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-944,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-965,51.1514,-114.1193,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-966,51.1514,-114.1193,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-967,51.1514,-114.1193,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-968,51.1514,-114.1193,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-998,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,F
+RM19-1028,51.1489,-114.2194,Royal Oak,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1030,50.9549,-114.131,Cedarbrae,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1041,51.1426,-114.171,Citadel,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1049,51.0548,-114.1595,Wildwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1050,51.1507,-114.2313,Royal Oak,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1051,51.1507,-114.2313,Royal Oak,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1052,51.1507,-114.2313,Royal Oak,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1053,51.1507,-114.2313,Royal Oak,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1054,51.0114,-114.0691,Parkhill,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,F
+RM19-1055,51.0114,-114.0691,Parkhill,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1056,51.0114,-114.0691,Parkhill,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1057,51.0114,-114.0691,Parkhill,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1082,51.1105,-114.1486,Dalhousie,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1083,51.1105,-114.1486,Dalhousie,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1092,50.9374,-114.0738,Canyon Meadows,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,F
+RM19-1099,51.0741,-114.0798,Mount Pleasant,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1100,51.0741,-114.0798,Mount Pleasant,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1110,51.0988,-114.1884,Silver Springs,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1129,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,F
+RM19-1130,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,F
+RM19-1131,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,F
+RM19-1132,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1133,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1134,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1135,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1136,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1137,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1138,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1139,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1140,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1141,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1142,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1143,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1144,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1171,51.0957,-114.2045,Bowness,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1172,51.0957,-114.2045,Bowness,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1173,51.0957,-114.2045,Bowness,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1174,51.0957,-114.2045,Bowness,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1200,51.0956,-114.2172,Bowness,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,F
+RM19-1201,51.0956,-114.2172,Bowness,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,F
+RM19-1202,51.0956,-114.2172,Bowness,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,F
+RM19-1203,51.0956,-114.2172,Bowness,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1204,51.0956,-114.2172,Bowness,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1205,51.0956,-114.2172,Bowness,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1206,51.0956,-114.2172,Bowness,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1207,51.0956,-114.2172,Bowness,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1208,51.0956,-114.2172,Bowness,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1225,51.1184,-114.1515,Edgemont,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1227,51.1582,-114.1238,Kincora,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1239,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1240,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1241,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1242,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1243,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1244,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1245,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1330,51.0465,-113.979,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1339,51.0904,-114.1335,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1340,51.0904,-114.1335,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1347,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1357,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1363,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,F
+RM19-1364,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,F
+RM19-1365,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1369,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1370,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1371,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1372,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1373,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1374,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1375,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1394,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1395,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1396,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1408,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1419,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1422,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,M
+RM19-1426,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,F
+RM19-1427,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,centralis,F
+RM19-126,51.0302,-114.1078,Bankview,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,cryptarum,F
+RM19-245,51.0616,-114.1966,West Springs,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,cryptarum,F
+RM19-313,50.9681,-114.0926,Haysboro,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,cryptarum,F
+RM19-364,51.1219,-114.1777,Ranchlands,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,cryptarum,F
+RM19-456,51.0359,-114.162,Glendale,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,cryptarum,F
+RM19-554,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,cryptarum,M
+RM19-897,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,cryptarum,F
+RM19-907,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,cryptarum,F
+RM19-910,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,cryptarum,F
+RM19-919,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,cryptarum,F
+RM19-1355,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,cryptarum,F
+RM19-1409,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,cryptarum,M
+RM19-712,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,flavifrons,F
+RM19-823,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,flavifrons,F
+RM19-014,51.0638,-114.1233,St. Andrews Heights,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,huntii,F
+RM19-022,51.1234,-114.1773,Ranchlands,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,huntii,F
+RM19-029,51.0187,-114.0971,Altadore,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,huntii,F
+RM19-037,51.0401,-114.0965,Sunalta,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,huntii,F
+RM19-045,51.0345,-114.0856,Mount Royal,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,huntii,F
+RM19-073,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,huntii,F
+RM19-074,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,huntii,F
+RM19-113,50.9435,-114.0634,Lake Bonavista,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,huntii,F
+RM19-134,51.0302,-114.1078,Bankview,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,huntii,F
+RM19-228,50.9667,-114.0819,Haysboro,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,huntii,F
+RM19-236,51.0889,-114.1494,Varsity,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,huntii,F
+RM19-312,50.9681,-114.0926,Haysboro,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,huntii,F
+RM19-339,51.0355,-114.1211,Killarney,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,huntii,F
+RM19-351,51.1507,-114.2313,Royal Oak,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,huntii,F
+RM19-358,51.0969,-114.1304,Brentwood,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,huntii,F
+RM19-370,51.0991,-114.1228,Charleswood,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,huntii,F
+RM19-407,51.0801,-114.0824,Rosemont,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,huntii,F
+RM19-425,51.0411,-113.9299,Applewood Park,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,huntii,F
+RM19-427,51.0411,-113.9299,Applewood Park,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,huntii,F
+RM19-441,50.9459,-114.0294,Acadia,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,huntii,M
+RM19-444,51.0355,-114.1211,Killarney,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,huntii,F
+RM19-477,51.1507,-114.2313,Royal Oak,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,huntii,M
+RM19-511,51.1105,-114.1486,Dalhousie,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,huntii,M
+RM19-519,51.0616,-114.1966,West Springs,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,huntii,M
+RM19-530,51.0957,-114.2045,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,huntii,F
+RM19-589,51.0218,-114.0831,Elbow Park,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,huntii,F
+RM19-605,51.0302,-114.1078,Bankview,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,huntii,F
+RM19-610,51.0302,-114.1078,Bankview,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,huntii,F
+RM19-615,51.0302,-114.1078,Bankview,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,huntii,F
+RM19-693,51.0889,-114.1494,Varsity,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,huntii,M
+RM19-694,51.0889,-114.1494,Varsity,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,huntii,M
+RM19-696,51.0889,-114.1494,Varsity,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,huntii,F
+RM19-699,51.0889,-114.1494,Varsity,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,huntii,M
+RM19-700,51.0889,-114.1494,Varsity,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,huntii,M
+RM19-701,51.0889,-114.1494,Varsity,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,huntii,F
+RM19-702,51.0889,-114.1494,Varsity,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,huntii,F
+RM19-739,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,huntii,M
+RM19-753,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,huntii,M
+RM19-870,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,huntii,M
+RM19-929,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,huntii,M
+RM19-945,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-946,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-947,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-948,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-949,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-950,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-951,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-952,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-953,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-954,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-955,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-969,51.1514,-114.1193,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-970,51.1514,-114.1193,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-971,51.1514,-114.1193,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-985,51.0355,-114.1211,Killarney,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-986,51.0355,-114.1211,Killarney,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-999,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1000,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1001,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1002,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1003,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1004,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1005,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1006,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1007,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1008,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1009,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1010,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1011,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1012,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1013,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1031,50.9549,-114.131,Cedarbrae,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1032,50.9549,-114.131,Cedarbrae,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1033,50.9549,-114.131,Cedarbrae,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1034,50.9549,-114.131,Cedarbrae,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1035,50.9549,-114.131,Cedarbrae,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1036,50.9549,-114.131,Cedarbrae,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1037,50.9549,-114.131,Cedarbrae,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1038,50.9549,-114.131,Cedarbrae,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1042,51.0196,-113.9681,Erin Woods,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1059,51.0404,-114.0303,Inglewood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1063,51.0298,-114.1501,Glenbrook,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1064,51.0298,-114.1501,Glenbrook,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1065,51.0298,-114.1501,Glenbrook,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1066,51.0298,-114.1501,Glenbrook,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1067,51.0298,-114.1501,Glenbrook,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1068,51.0298,-114.1501,Glenbrook,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1069,51.0298,-114.1501,Glenbrook,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1070,51.0298,-114.1501,Glenbrook,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1073,51.0302,-114.1078,Bankview,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1074,51.0302,-114.1078,Bankview,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1075,51.0302,-114.1078,Bankview,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1084,51.1105,-114.1486,Dalhousie,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1085,51.1105,-114.1486,Dalhousie,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1086,51.1105,-114.1486,Dalhousie,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1087,51.1105,-114.1486,Dalhousie,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1088,51.1105,-114.1486,Dalhousie,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1095,51.0407,-114.107,Shaganappi,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1096,51.0407,-114.107,Shaganappi,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1101,51.0741,-114.0798,Mount Pleasant,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1106,51.0647,-114.1407,Parkdale,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1107,51.0647,-114.1407,Parkdale,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1117,51.1207,-114.2264,Scenic Acres,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1145,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1146,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1147,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1148,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1149,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1150,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1151,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1152,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1153,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1154,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1155,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1179,51.0654,-114.0362,Renfrew,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1191,50.9459,-114.0294,Acadia,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1209,51.0956,-114.2172,Bowness,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1210,51.0956,-114.2172,Bowness,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1211,51.0956,-114.2172,Bowness,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1212,51.0956,-114.2172,Bowness,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1219,51.1518,-114.122,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1228,51.1582,-114.1238,Kincora,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1232,50.9681,-114.0926,Haysboro,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1233,50.9715,-114.0941,Haysboro,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1246,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1247,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1248,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1249,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1250,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1251,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1252,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1253,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1254,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1255,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1256,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1257,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1258,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1259,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1260,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1261,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1262,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1263,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1264,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1265,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1266,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1267,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1268,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1269,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1270,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1271,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1272,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1273,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1274,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1275,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1276,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1277,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1278,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1279,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1280,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1281,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1282,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1283,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1284,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1285,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1286,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1287,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1288,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1289,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1290,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1291,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1292,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1293,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1294,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1295,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1296,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1297,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1298,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1299,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1300,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1301,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1302,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1303,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1304,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1305,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1306,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1307,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1308,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1309,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1310,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1331,51.0465,-113.979,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1332,51.0465,-113.979,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1333,51.0465,-113.979,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1334,51.0904,-114.1335,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1345,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1348,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1351,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1352,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1358,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1366,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1367,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1377,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1378,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1379,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1380,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1381,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1382,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1383,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1384,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1410,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,F
+RM19-1411,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1412,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-1428,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,huntii,M
+RM19-079,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,insularis,F
+RM19-537,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,insularis,M
+RM19-587,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,insularis,F
+RM19-002,51.0957,-114.2045,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,mixtus,F
+RM19-209,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,mixtus,F
+RM19-224,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,mixtus,F
+RM19-226,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,mixtus,F
+RM19-538,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,mixtus,F
+RM19-563,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,mixtus,F
+RM19-1220,51.1518,-114.122,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,mixtus,M
+RM19-372,51.0991,-114.1228,Charleswood,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,nevadensis,F
+RM19-422,50.9715,-114.0941,Haysboro,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,nevadensis,F
+RM19-432,51.0711,-114.0907,Capitol Hill,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,nevadensis,M
+RM19-893,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,nevadensis,F
+RM19-1118,51.1207,-114.2264,Scenic Acres,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,nevadensis,F
+RM19-1199,51.1075,-113.9405,Falconridge,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,occidentalis,M
+RM19-1353,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,occidentalis,M
+RM19-009,51.0647,-114.1407,Parkdale,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-010,51.0647,-114.1407,Parkdale,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-013,51.0641,-114.1411,Parkdale,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-017,51.1234,-114.1773,Ranchlands,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-018,51.1234,-114.1773,Ranchlands,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-019,51.1234,-114.1773,Ranchlands,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-020,51.1234,-114.1773,Ranchlands,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-021,51.1234,-114.1773,Ranchlands,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-024,51.1234,-114.1773,Ranchlands,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-025,51.1234,-114.1773,Ranchlands,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-026,51.1234,-114.1773,Ranchlands,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-030,51.0187,-114.0971,Altadore,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-040,51.0345,-114.0856,Mount Royal,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-041,51.0345,-114.0856,Mount Royal,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-043,51.0345,-114.0856,Mount Royal,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-047,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-048,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-049,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-050,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-051,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-052,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-053,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-054,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,M
+RM19-055,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-056,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-057,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,M
+RM19-058,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-059,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-060,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-061,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-062,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-063,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-064,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-065,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-066,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-067,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-068,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-069,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-070,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-072,51.0114,-114.0691,Parkhill,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-080,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-081,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-083,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-087,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-093,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-107,50.9435,-114.0634,Lake Bonavista,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-108,50.9435,-114.0634,Lake Bonavista,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-109,50.9435,-114.0634,Lake Bonavista,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-110,50.9435,-114.0634,Lake Bonavista,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-111,50.9435,-114.0634,Lake Bonavista,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-112,50.9435,-114.0634,Lake Bonavista,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-123,50.9459,-114.0294,Acadia,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-127,51.0302,-114.1078,Bankview,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-128,51.0302,-114.1078,Bankview,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-129,51.0302,-114.1078,Bankview,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-130,51.0302,-114.1078,Bankview,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-131,51.0302,-114.1078,Bankview,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-132,51.0302,-114.1078,Bankview,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-133,51.0302,-114.1078,Bankview,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-137,51.0139,-114.103,Altadore,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-140,51.0649,-114.1399,Parkdale,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-144,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-145,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-146,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-147,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-148,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-149,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-150,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,M
+RM19-151,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-152,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-153,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-154,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-155,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-156,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-157,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-159,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-160,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-161,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-162,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-163,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-164,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-165,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-166,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-167,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-168,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-169,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,M
+RM19-170,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-171,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,M
+RM19-172,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-173,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,M
+RM19-174,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-175,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-176,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,M
+RM19-177,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-178,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-179,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,M
+RM19-181,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-182,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-185,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-187,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-188,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,M
+RM19-189,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-190,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-191,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-193,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-195,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,M
+RM19-197,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-198,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-200,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-202,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,M
+RM19-203,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-204,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-205,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-206,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,M
+RM19-207,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-208,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-210,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,M
+RM19-211,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-212,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-213,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-214,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-215,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-216,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-217,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-218,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-219,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-221,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,M
+RM19-222,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-223,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-225,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-227,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-229,50.9667,-114.0819,Haysboro,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-234,51.0889,-114.1494,Varsity,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-239,50.9377,-114.1053,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,M
+RM19-240,50.9377,-114.1053,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-256,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-257,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-272,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-283,51.0956,-114.2172,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-290,51.0359,-114.1431,Glendale,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-303,51.0548,-114.1595,Wildwood,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-311,50.9681,-114.0926,Haysboro,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-314,50.9681,-114.0926,Haysboro,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-315,50.9681,-114.0926,Haysboro,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-320,50.9681,-114.0926,Haysboro,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-323,50.9981,-114.1156,Lakeview,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-324,50.9981,-114.1156,Lakeview,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,M
+RM19-325,50.9981,-114.1156,Lakeview,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,M
+RM19-326,50.9981,-114.1156,Lakeview,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,M
+RM19-327,50.9981,-114.1156,Lakeview,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,M
+RM19-328,50.9981,-114.1156,Lakeview,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-329,50.9981,-114.1156,Lakeview,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-330,50.9981,-114.1156,Lakeview,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,M
+RM19-331,50.9981,-114.1156,Lakeview,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-334,50.9981,-114.1156,Lakeview,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-337,51.0355,-114.1211,Killarney,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-338,51.0355,-114.1211,Killarney,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-342,51.0355,-114.1211,Killarney,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-344,50.9488,-114.1208,Woodbine,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-345,50.9488,-114.1208,Woodbine,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-346,50.9488,-114.1208,Woodbine,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,M
+RM19-347,50.9488,-114.1208,Woodbine,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-368,51.0991,-114.1228,Charleswood,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-400,51.0801,-114.0824,Rosemont,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,perplexus,F
+RM19-414,51.0641,-114.1411,Parkdale,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-415,51.0641,-114.1411,Parkdale,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-421,50.9715,-114.0941,Haysboro,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-439,51.0298,-114.1501,Glenbrook,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-442,50.9459,-114.0294,Acadia,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-447,51.0539,-114.1044,Hillhurst,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-449,51.0323,-114.075,Cliff Bungalow,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-453,51.0359,-114.162,Glendale,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-458,51.0904,-114.1335,Brentwood,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-459,51.0904,-114.1335,Brentwood,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-464,51.0904,-114.1335,Brentwood,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-468,51.1426,-114.171,Citadel,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-470,51.1507,-114.2313,Royal Oak,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-471,51.1507,-114.2313,Royal Oak,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-488,51.0375,-114.146,Glendale,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-493,51.0649,-114.1399,Parkdale,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-534,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-535,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-536,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-539,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-543,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-547,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-549,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-550,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-568,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-590,51.0114,-114.0691,Parkhill,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-594,51.0137,-114.1123,Altadore,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-598,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-601,51.0302,-114.1078,Bankview,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-608,51.0302,-114.1078,Bankview,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-624,51.0643,-114.1413,Parkdale,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-626,51.0988,-114.1884,Silver Springs,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-627,51.0988,-114.1884,Silver Springs,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-657,50.9399,-114.136,Woodbine,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-659,50.9399,-114.136,Woodbine,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-671,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-672,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-677,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-678,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-679,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-686,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-690,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-692,51.0889,-114.1494,Varsity,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-695,51.0889,-114.1494,Varsity,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-698,51.0889,-114.1494,Varsity,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-703,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-705,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-707,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-729,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-735,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-738,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-750,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-774,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-775,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-781,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-796,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-831,51.1184,-114.1515,Edgemont,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-895,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-900,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-915,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-916,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-922,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-923,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-924,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-925,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-927,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-928,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-972,51.1514,-114.1193,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-973,51.1514,-114.1193,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-987,51.0355,-114.1211,Killarney,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-1014,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-1015,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-1016,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-1024,50.8894,-114.0835,Silverado,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-1039,50.9549,-114.131,Cedarbrae,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-1076,51.0302,-114.1078,Bankview,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-1089,51.1105,-114.1486,Dalhousie,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-1097,51.0407,-114.107,Shaganappi,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-1102,51.0741,-114.0798,Mount Pleasant,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-1113,50.9435,-114.0634,Lake Bonavista,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-1156,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-1169,51.1631,-114.1224,Evanston,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-1213,51.0956,-114.2172,Bowness,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-1221,51.1518,-114.122,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-1311,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-1312,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-1313,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,perplexus,F
+RM19-1314,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-1385,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,perplexus,M
+RM19-086,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,rufocinctus,F
+RM19-089,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,rufocinctus,F
+RM19-090,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,rufocinctus,F
+RM19-097,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,rufocinctus,F
+RM19-115,50.9413,-114.0877,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,rufocinctus,F
+RM19-120,51.0465,-113.979,Forest Heights,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,rufocinctus,F
+RM19-121,51.0465,-113.979,Forest Heights,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,rufocinctus,F
+RM19-235,51.0889,-114.1494,Varsity,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,rufocinctus,F
+RM19-237,50.9549,-114.131,Cedarbrae,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,rufocinctus,F
+RM19-249,51.0715,-114.2154,Cougar Ridge,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,rufocinctus,F
+RM19-250,51.0715,-114.2154,Cougar Ridge,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,rufocinctus,F
+RM19-270,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,rufocinctus,F
+RM19-295,51.0375,-114.146,Glendale,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,rufocinctus,F
+RM19-306,51.0548,-114.1595,Wildwood,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,rufocinctus,F
+RM19-335,51.1207,-114.2264,Scenic Acres,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,rufocinctus,F
+RM19-350,51.1507,-114.2313,Royal Oak,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,rufocinctus,F
+RM19-379,51.0988,-114.1884,Silver Springs,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,rufocinctus,F
+RM19-391,51.1076,-114.1649,Dalhousie,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,rufocinctus,F
+RM19-395,51.0589,-114.0395,Renfrew,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,rufocinctus,F
+RM19-440,50.9459,-114.0294,Acadia,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-452,51.0359,-114.162,Glendale,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-510,50.9667,-114.0819,Haysboro,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-514,51.1105,-114.1486,Dalhousie,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-515,51.1105,-114.1486,Dalhousie,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-525,51.0957,-114.2045,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-529,51.0957,-114.2045,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-544,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-546,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-551,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,rufocinctus,M
+RM19-573,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-586,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-599,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-600,51.0302,-114.1078,Bankview,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-602,51.0302,-114.1078,Bankview,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-604,51.0302,-114.1078,Bankview,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-606,51.0302,-114.1078,Bankview,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-609,51.0302,-114.1078,Bankview,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-612,51.0302,-114.1078,Bankview,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-613,51.0302,-114.1078,Bankview,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-614,51.0302,-114.1078,Bankview,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-616,51.0302,-114.1078,Bankview,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-643,50.9413,-114.0877,Canyon Meadows,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-742,51.0956,-114.2172,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-757,51.1207,-114.2264,Scenic Acres,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-758,51.1207,-114.2264,Scenic Acres,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-760,51.1207,-114.2264,Scenic Acres,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-769,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-773,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-779,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-903,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-926,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-956,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-957,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-958,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-959,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-974,51.1514,-114.1193,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-975,51.1514,-114.1193,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-976,51.1514,-114.1193,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1017,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1018,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1040,50.9549,-114.131,Cedarbrae,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1077,51.0302,-114.1078,Bankview,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1078,51.0302,-114.1078,Bankview,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1079,51.0302,-114.1078,Bankview,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1093,50.9374,-114.0738,Canyon Meadows,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1094,50.9374,-114.0738,Canyon Meadows,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,M
+RM19-1105,50.9381,-114.1044,Woodlands,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1119,51.1207,-114.2264,Scenic Acres,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1120,51.1207,-114.2264,Scenic Acres,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1157,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1158,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1159,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1187,51.0401,-114.0965,Sunalta,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1189,51.0638,-114.1233,St. Andrews Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1192,50.9459,-114.0294,Acadia,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1193,50.9459,-114.0294,Acadia,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1194,50.9459,-114.0294,Acadia,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1195,50.9459,-114.0294,Acadia,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1196,50.9459,-114.0294,Acadia,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,M
+RM19-1222,51.1518,-114.122,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1229,51.1582,-114.1238,Kincora,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1315,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1316,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1317,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1318,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1319,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1335,51.0465,-113.979,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1336,51.0465,-113.979,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1337,51.0465,-113.979,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1354,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1359,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1360,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,F
+RM19-1429,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,rufocinctus,M
+RM19-012,51.0647,-114.1407,Parkdale,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,ternarius,F
+RM19-038,51.0401,-114.0965,Sunalta,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,ternarius,F
+RM19-092,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Apidae,Bombus,ternarius,F
+RM19-286,51.0904,-114.1335,Brentwood,Blue Vane,3,Jul,17,Jul,2019,Apidae,Bombus,ternarius,F
+RM19-348,51.1507,-114.2313,Royal Oak,Blue Vane,2,Jul,16,Jul,2019,Apidae,Bombus,ternarius,F
+RM19-412,51.0801,-114.0824,Rosemont,Blue Vane,4,Jul,18,Jul,2019,Apidae,Bombus,ternarius,F
+RM19-429,50.8894,-114.0835,Silverado,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-430,50.8894,-114.0835,Silverado,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-437,51.0715,-114.2154,Cougar Ridge,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-438,51.0715,-114.2154,Cougar Ridge,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-478,51.1507,-114.2313,Royal Oak,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-486,51.0375,-114.146,Glendale,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-492,51.0375,-114.146,Glendale,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-494,51.0649,-114.1399,Parkdale,Blue Vane,1,Aug,8,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-501,51.1219,-114.1777,Ranchlands,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-582,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-611,51.0302,-114.1078,Bankview,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-638,50.9413,-114.0877,Canyon Meadows,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-644,50.9413,-114.0877,Canyon Meadows,Blue Vane,31,Jul,7,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-669,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-683,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Apidae,Bombus,ternarius,M
+RM19-767,51.1514,-114.1193,Hidden Valley,Blue Vane,30,Jul,6,Aug,2019,Apidae,Bombus,ternarius,M
+RM19-898,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-904,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-960,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,M
+RM19-977,51.1514,-114.1193,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,M
+RM19-978,51.1514,-114.1193,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-1058,51.0114,-114.0691,Parkhill,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-1098,51.0407,-114.107,Shaganappi,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-1108,51.0647,-114.1407,Parkdale,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,M
+RM19-1160,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,M
+RM19-1161,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,M
+RM19-1162,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-1163,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-1164,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-1180,51.0654,-114.0362,Renfrew,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-1181,51.0654,-114.0362,Renfrew,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-1214,51.0956,-114.2172,Bowness,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,M
+RM19-1215,51.0956,-114.2172,Bowness,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,M
+RM19-1216,51.0956,-114.2172,Bowness,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,M
+RM19-1230,51.1582,-114.1238,Kincora,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-1320,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,M
+RM19-1321,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,M
+RM19-1322,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,M
+RM19-1386,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,M
+RM19-1415,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-1430,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-1431,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Apidae,Bombus,ternarius,F
+RM19-284,51.0956,-114.2172,Bowness,Blue Vane,3,Jul,17,Jul,2019,Halictidae,Dufourea,maura,F
+RM19-291,51.0359,-114.1431,Glendale,Blue Vane,3,Jul,17,Jul,2019,Halictidae,Dufourea,maura,F
+RM19-308,51.0548,-114.1595,Wildwood,Blue Vane,3,Jul,17,Jul,2019,Halictidae,Dufourea,maura,F
+RM19-309,51.0548,-114.1595,Wildwood,Blue Vane,3,Jul,17,Jul,2019,Halictidae,Dufourea,maura,F
+RM19-310,51.0548,-114.1595,Wildwood,Blue Vane,3,Jul,17,Jul,2019,Halictidae,Dufourea,maura,F
+RM19-905,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Halictidae,Dufourea,maura,F
+RM19-1188,51.0401,-114.0965,Sunalta,Blue Vane,19,Aug,30,Aug,2019,Halictidae,Halictus,confusus,F
+RM19-1323,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Halictidae,Halictus,confusus,F
+RM19-005,51.0957,-114.2045,Bowness,Blue Vane,3,Jul,17,Jul,2019,Halictidae,Halictus,rubicundus,F
+RM19-031,51.0401,-114.0965,Sunalta,Blue Vane,4,Jul,18,Jul,2019,Halictidae,Halictus,rubicundus,F
+RM19-032,51.0401,-114.0965,Sunalta,Blue Vane,4,Jul,18,Jul,2019,Halictidae,Halictus,rubicundus,F
+RM19-033,51.0401,-114.0965,Sunalta,Blue Vane,4,Jul,18,Jul,2019,Halictidae,Halictus,rubicundus,F
+RM19-034,51.0401,-114.0965,Sunalta,Blue Vane,4,Jul,18,Jul,2019,Halictidae,Halictus,rubicundus,F
+RM19-035,51.0401,-114.0965,Sunalta,Blue Vane,4,Jul,18,Jul,2019,Halictidae,Halictus,rubicundus,F
+RM19-077,51.0411,-113.9299,Applewood Park,Blue Vane,4,Jul,18,Jul,2019,Halictidae,Halictus,rubicundus,M
+RM19-117,50.9413,-114.0877,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Halictidae,Halictus,rubicundus,F
+RM19-118,50.9413,-114.0877,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Halictidae,Halictus,rubicundus,F
+RM19-119,50.9413,-114.0877,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Halictidae,Halictus,rubicundus,F
+RM19-233,50.9667,-114.0819,Haysboro,Blue Vane,4,Jul,18,Jul,2019,Halictidae,Halictus,rubicundus,F
+RM19-289,51.0904,-114.1335,Brentwood,Blue Vane,3,Jul,17,Jul,2019,Halictidae,Halictus,rubicundus,F
+RM19-299,51.0375,-114.146,Glendale,Blue Vane,3,Jul,17,Jul,2019,Halictidae,Halictus,rubicundus,F
+RM19-322,50.9681,-114.0926,Haysboro,Blue Vane,4,Jul,18,Jul,2019,Halictidae,Halictus,rubicundus,F
+RM19-382,51.1076,-114.1649,Dalhousie,Blue Vane,2,Jul,16,Jul,2019,Halictidae,Halictus,rubicundus,F
+RM19-383,51.1076,-114.1649,Dalhousie,Blue Vane,2,Jul,16,Jul,2019,Halictidae,Halictus,rubicundus,F
+RM19-384,51.1076,-114.1649,Dalhousie,Blue Vane,2,Jul,16,Jul,2019,Halictidae,Halictus,rubicundus,F
+RM19-385,51.1076,-114.1649,Dalhousie,Blue Vane,2,Jul,16,Jul,2019,Halictidae,Halictus,rubicundus,F
+RM19-386,51.1076,-114.1649,Dalhousie,Blue Vane,2,Jul,16,Jul,2019,Halictidae,Halictus,rubicundus,F
+RM19-409,51.0801,-114.0824,Rosemont,Blue Vane,4,Jul,18,Jul,2019,Halictidae,Halictus,rubicundus,F
+RM19-420,51.0196,-113.9681,Erin Woods,Blue Vane,2,Aug,9,Aug,2019,Halictidae,Halictus,rubicundus,F
+RM19-446,51.0355,-114.1211,Killarney,Blue Vane,1,Aug,8,Aug,2019,Halictidae,Halictus,rubicundus,F
+RM19-961,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Halictidae,Halictus,rubicundus,F
+RM19-1324,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Halictidae,Halictus,rubicundus,F
+RM19-1325,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Halictidae,Halictus,rubicundus,F
+RM19-1361,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Halictidae,Halictus,rubicundus,M
+RM19-394,51.0654,-114.0362,Renfrew,Blue Vane,4,Jul,18,Jul,2019,Megachilidae,Hoplitis,albifrons,F
+RM19-607,51.0302,-114.1078,Bankview,Blue Vane,2,Aug,9,Aug,2019,Megachilidae,Hoplitis,pilosifrons,F
+RM19-1027,51.0411,-113.9299,Applewood Park,Blue Vane,19,Aug,30,Aug,2019,Megachilidae,Hoplitis,pilosifrons,F
+RM19-1019,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Halictidae,Lasioglossum,leucozonium,F
+RM19-918,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Halictidae,Lasioglossum,paraforbesci,F
+RM19-1420,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Halictidae,Lasioglossum,sp1,F
+RM19-1112,51.0919,-114.1955,Bowness,Blue Vane,19,Aug,30,Aug,2019,Halictidae,Lasioglossum,sp2,F
+RM19-1166,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Halictidae,Lasioglossum,sp3,F
+RM19-135,51.0302,-114.1078,Bankview,Blue Vane,4,Jul,18,Jul,2019,Halictidae,Lasioglossum,zonulum,F
+RM19-136,51.0302,-114.1078,Bankview,Blue Vane,4,Jul,18,Jul,2019,Halictidae,Lasioglossum,zonulum,F
+RM19-220,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Halictidae,Lasioglossum,zonulum,F
+RM19-241,51.0359,-114.162,Glendale,Blue Vane,3,Jul,17,Jul,2019,Halictidae,Lasioglossum,zonulum,F
+RM19-242,51.0359,-114.162,Glendale,Blue Vane,3,Jul,17,Jul,2019,Halictidae,Lasioglossum,zonulum,F
+RM19-281,51.1518,-114.122,Hidden Valley,Blue Vane,3,Jul,17,Jul,2019,Halictidae,Lasioglossum,zonulum,F
+RM19-292,51.0359,-114.1431,Glendale,Blue Vane,3,Jul,17,Jul,2019,Halictidae,Lasioglossum,zonulum,F
+RM19-307,51.0548,-114.1595,Wildwood,Blue Vane,3,Jul,17,Jul,2019,Halictidae,Lasioglossum,zonulum,F
+RM19-396,51.0801,-114.0824,Rosemont,Blue Vane,4,Jul,18,Jul,2019,Halictidae,Lasioglossum,zonulum,F
+RM19-1080,51.0302,-114.1078,Bankview,Blue Vane,19,Aug,30,Aug,2019,Halictidae,Lasioglossum,zonulum,F
+RM19-1170,51.0801,-114.0824,Rosemont,Blue Vane,19,Aug,30,Aug,2019,Halictidae,Lasioglossum,zonulum,F
+RM19-1190,51.0638,-114.1233,St. Andrews Heights,Blue Vane,19,Aug,30,Aug,2019,Halictidae,Lasioglossum,zonulum,F
+RM19-399,51.0801,-114.0824,Rosemont,Blue Vane,4,Jul,18,Jul,2019,Megachilidae,Megachile,addenda,F
+RM19-252,51.0715,-114.2154,Cougar Ridge,Blue Vane,3,Jul,17,Jul,2019,Megachilidae,Megachile,frigida,F
+RM19-411,51.0801,-114.0824,Rosemont,Blue Vane,4,Jul,18,Jul,2019,Megachilidae,Megachile,frigida,M
+RM19-670,51.0654,-114.0362,Renfrew,Blue Vane,2,Aug,9,Aug,2019,Megachilidae,Megachile,frigida,F
+RM19-484,51.0375,-114.146,Glendale,Blue Vane,1,Aug,8,Aug,2019,Megachilidae,Megachile,inermis,F
+RM19-487,51.0375,-114.146,Glendale,Blue Vane,1,Aug,8,Aug,2019,Megachilidae,Megachile,inermis,F
+RM19-489,51.0375,-114.146,Glendale,Blue Vane,1,Aug,8,Aug,2019,Megachilidae,Megachile,inermis,F
+RM19-899,NA,NA,Unknown,Blue Vane,30,Jul,9,Aug,2019,Megachilidae,Megachile,inermis,F
+RM19-962,51.0889,-114.1494,Varsity,Blue Vane,19,Aug,30,Aug,2019,Megachilidae,Megachile,inermis,F
+RM19-980,51.1514,-114.1193,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Megachilidae,Megachile,inermis,F
+RM19-1231,51.1582,-114.1238,Kincora,Blue Vane,19,Aug,30,Aug,2019,Megachilidae,Megachile,inermis,F
+RM19-1326,51.0497,-113.9677,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Megachilidae,Megachile,inermis,F
+RM19-100,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Megachilidae,Megachile,melanophae,M
+RM19-180,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Megachilidae,Megachile,melanophae,F
+RM19-184,50.9381,-114.1044,Woodlands,Blue Vane,5,Jul,19,Jul,2019,Megachilidae,Megachile,melanophae,F
+RM19-263,51.0919,-114.1955,Bowness,Blue Vane,3,Jul,17,Jul,2019,Megachilidae,Megachile,melanophae,F
+RM19-316,50.9681,-114.0926,Haysboro,Blue Vane,4,Jul,18,Jul,2019,Megachilidae,Megachile,melanophae,F
+RM19-319,50.9681,-114.0926,Haysboro,Blue Vane,4,Jul,18,Jul,2019,Megachilidae,Megachile,melanophae,M
+RM19-332,50.9981,-114.1156,Lakeview,Blue Vane,5,Jul,19,Jul,2019,Megachilidae,Megachile,melanophae,F
+RM19-354,51.1631,-114.1224,Evanston,Blue Vane,3,Jul,17,Jul,2019,Megachilidae,Megachile,melanophae,F
+RM19-366,51.0991,-114.1228,Charleswood,Blue Vane,3,Jul,17,Jul,2019,Megachilidae,Megachile,melanophae,F
+RM19-378,51.0988,-114.1884,Silver Springs,Blue Vane,2,Jul,16,Jul,2019,Megachilidae,Megachile,melanophae,F
+RM19-404,51.0801,-114.0824,Rosemont,Blue Vane,4,Jul,18,Jul,2019,Megachilidae,Megachile,melanophae,F
+RM19-408,51.0801,-114.0824,Rosemont,Blue Vane,4,Jul,18,Jul,2019,Megachilidae,Megachile,melanophae,F
+RM19-455,51.0359,-114.162,Glendale,Blue Vane,1,Aug,8,Aug,2019,Megachilidae,Megachile,melanophae,F
+RM19-560,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Megachilidae,Megachile,melanophae,M
+RM19-572,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Megachilidae,Megachile,melanophae,F
+RM19-1413,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Megachilidae,Megachile,melanophaea,F
+RM19-545,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Megachilidae,Megachile,montivaga,F
+RM19-003,51.0957,-114.2045,Bowness,Blue Vane,3,Jul,17,Jul,2019,Megachilidae,Megachile,perihirta,F
+RM19-084,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Megachilidae,Megachile,perihirta,F
+RM19-085,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Megachilidae,Megachile,perihirta,F
+RM19-091,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Megachilidae,Megachile,perihirta,F
+RM19-096,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Megachilidae,Megachile,perihirta,F
+RM19-106,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Megachilidae,Megachile,perihirta,F
+RM19-116,50.9413,-114.0877,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Megachilidae,Megachile,perihirta,F
+RM19-454,51.0359,-114.162,Glendale,Blue Vane,1,Aug,8,Aug,2019,Megachilidae,Megachile,perihirta,F
+RM19-481,51.0375,-114.146,Glendale,Blue Vane,1,Aug,8,Aug,2019,Megachilidae,Megachile,perihirta,F
+RM19-490,51.0375,-114.146,Glendale,Blue Vane,1,Aug,8,Aug,2019,Megachilidae,Megachile,perihirta,F
+RM19-533,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Megachilidae,Megachile,perihirta,F
+RM19-556,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Megachilidae,Megachile,perihirta,F
+RM19-562,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Megachilidae,Megachile,perihirta,F
+RM19-579,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Megachilidae,Megachile,perihirta,F
+RM19-981,51.1514,-114.1193,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Megachilidae,Megachile,perihirta,F
+RM19-1020,51.0969,-114.1304,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Megachilidae,Megachile,perihirta,F
+RM19-1223,51.1518,-114.122,Hidden Valley,Blue Vane,19,Aug,30,Aug,2019,Megachilidae,Megachile,perihirta,F
+RM19-1167,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Megachilidae,Megachile,relativa,F
+RM19-1432,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Megachilidae,Megachile,relativa,F
+RM19-1433,NA,NA,Unknown,Blue Vane,19,Aug,30,Aug,2019,Megachilidae,Megachile,rotunda,F
+RM19-1168,51.0932,-114.1259,Brentwood,Blue Vane,19,Aug,30,Aug,2019,Apidae,Melissodes,agilis,M
+RM19-1197,50.9459,-114.0294,Acadia,Blue Vane,19,Aug,30,Aug,2019,Apidae,Melissodes,agilis,F
+RM19-105,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Apidae,Melissodes,confusus,F
+RM19-480,51.0375,-114.146,Glendale,Blue Vane,1,Aug,8,Aug,2019,Apidae,Melissodes,confusus,F
+RM19-531,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,M
+RM19-532,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,F
+RM19-541,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,F
+RM19-548,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,F
+RM19-557,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,F
+RM19-558,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,F
+RM19-564,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,M
+RM19-565,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,M
+RM19-566,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,M
+RM19-567,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,M
+RM19-569,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,F
+RM19-570,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,M
+RM19-571,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,F
+RM19-574,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,M
+RM19-575,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,F
+RM19-576,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,F
+RM19-577,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,M
+RM19-578,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,F
+RM19-580,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,F
+RM19-581,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,F
+RM19-583,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,F
+RM19-584,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,M
+RM19-585,50.9368,-114.0927,Canyon Meadows,Blue Vane,31,Jul,2,Aug,2019,Apidae,Melissodes,confusus,F
+RM19-1338,51.0465,-113.979,Forest Heights,Blue Vane,19,Aug,30,Aug,2019,Apidae,Melissodes,confusus,F
+RM19-431,51.0465,-113.979,Forest Heights,Blue Vane,2,Aug,9,Aug,2019,Apidae,Melissodes,rivalis,F
+RM19-445,51.0355,-114.1211,Killarney,Blue Vane,1,Aug,8,Aug,2019,Apidae,Melissodes,rivalis,F
+RM19-457,51.0359,-114.162,Glendale,Blue Vane,1,Aug,8,Aug,2019,Apidae,Melissodes,rivalis,F
+RM19-526,51.0957,-114.2045,Bowness,Blue Vane,1,Aug,8,Aug,2019,Apidae,Melissodes,rivalis,F
+RM19-104,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Apidae,Nomada,sp,F
+RM19-101,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Megachilidae,Osmia,simillima,F
+RM19-103,50.9368,-114.0927,Canyon Meadows,Blue Vane,5,Jul,19,Jul,2019,Megachilidae,Osmia,sp.,F
+RM19-255,51.0618,-114.215,West Springs,Blue Vane,3,Jul,17,Jul,2019,Megachilidae,Osmia,sp.,F
+RM19-333,50.9981,-114.1156,Lakeview,Blue Vane,5,Jul,19,Jul,2019,Megachilidae,Osmia,sp.,F
