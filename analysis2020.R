@@ -2,8 +2,7 @@
 # WRITTEN BY SAM ROBINSON, JAN 2021
 
 # Load everything ---------------------------------------------------------
-
-setwd("~/Projects/Stats projects/Mindi Summers")
+setwd("~/Documents/yyc-bees")
 
 library(tidyverse)
 theme_set(theme_classic())
@@ -15,7 +14,8 @@ source('helperFuns.R') #Load helper functions
 #Data from Mindi (bees + flowers)
 dat <- read.csv('./Data/MSSampling_2020.csv',na.strings = '',stringsAsFactors = FALSE) %>% 
   filter(!is.na(Family)) %>% 
-  mutate(genSpp=paste(Genus,gsub('.+ sp\\.','spp.',Species))) %>% #Remove Subgenus and sp.
+  mutate(Species=gsub('.*sp+\\.\\s*(\\d)','spp. \\1',Species)) %>% 
+  mutate(genSpp=paste(Genus,ifelse(grepl('spp\\.',Species),'spp.',Species))) %>% #Remove Subgenus and sp.
   mutate(FlowerGen=gsub('\\s.+','',FlowerSpp)) %>%  
   mutate(Method=gsub('sweep net','Hand Netting',Method)) %>% 
   mutate(across(c('StartMonth','EndMonth'),~as.numeric(as.roman(.)))) %>% 
@@ -31,22 +31,22 @@ datLB <- read.csv('./Data/LRBestSampling_2017_2018.csv',na.strings = '',stringsA
   mutate(Method=case_when(Method=='pan trap' ~ 'Pan Trap', 
                           Method=='vane trap' ~ 'Blue Vane',
                           Method=='net' ~ 'Hand Netting')) %>% 
-  mutate(Species=ifelse(is.na(Species)|grepl('sp{1,2}\\.',Species),'spp.',Species)) #Strip out spp.
+  mutate(Species=ifelse(is.na(Species),'spp.',Species)) %>% 
+  mutate(Species=gsub('^sp+\\.\\s*(\\d)','spp. \\1',Species)) %>% 
+  mutate(genSpp=paste(Genus,gsub('.*sp{1,2}\\.\\s\\d','spp.',Species)))
 
 datRM <- read.csv('./Data/RMSampling_2019.csv',na.strings = c('','NA'),stringsAsFactors = FALSE) %>% 
   mutate(Sex=case_when(Sex=='F' ~ 'female',Sex=='M' ~ 'male')) %>% mutate(Year2=Year) %>% 
   dmy2date(StartDay,StartMonth,Year,'StartDay','%d_%b_%Y') %>% 
   dmy2date(EndDay,EndMonth,Year2,'EndDay','%d_%b_%Y') %>% 
   transmute(ID,Lat=Latitude,Lon=Longitude,Method,StartDay,EndDay,Family,Genus,Species,Sex) %>% 
-  mutate(Species=ifelse(is.na(Species)|grepl('(sp\\.|sp\\.*\\d)',Species)|Species=='sp',
-                        'spp.',Species))
-  
+  mutate(Species=gsub('sp{1,2}\\.*(\\d)','spp. \\1',Species)) %>% 
+  mutate(Species=gsub('sp+\\.*','spp.',Species)) %>% 
+  mutate(genSpp=paste(Genus,gsub('.*sp{1,2}\\.\\s\\d','spp.',Species)))
 
-datMS <- dat %>% transmute(ID=Specimen_ID,Lat,Lon,Method,StartDay,EndDay,Family,Genus,Species,Sex)
+datMS <- dat %>% transmute(ID=Specimen_ID,Lat,Lon,Method,StartDay,EndDay,Family,Genus,Species,Sex,genSpp)
 
-dat2 <- bind_rows(datLB,datRM,datMS) %>% 
-  mutate(genSpp=paste(Genus,gsub('.+ sp\\.','spp.',Species))) #%>% #Remove Subgenus and sp.
-
+dat2 <- bind_rows(datLB,datRM,datMS) 
 
 rm(datLB,datRM,datMS)
 
@@ -134,6 +134,6 @@ ggsave('./Figures/collectors.png',p4,width=8,height=6)
 
 # Basic richness plots (LB+RM+MS data - bees only) ---------------------------------------
 
-p1 <- dat2 %>% 
+p1 <- dat2 %>% filter(!grepl('spp.',genSpp)) %>% 
   abundPlots(fam=Family,gen=Genus,spp=Species,scaleYtext=c(0.6,1,1)) #Lots of Apidae, mainly Bombus
 ggsave('./Figures/beeRichness_all.png',p1,width=6,height=9)
