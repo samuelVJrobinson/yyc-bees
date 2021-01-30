@@ -5,6 +5,9 @@
 # colSet = colour set to use
 # scaleYtext = scale for y text on species, genus, family plots (reverse order)
 # vj = vertical adjustment for y-axis labels
+
+#TO DO: set excludeSpp to remove from records Species (but not Genus,Family), rather than just
+# replacing them
 abundPlots <- function(d,excludeSpp='spp.',fam,gen,spp,
                        colSet='Set1',scaleYtext=c(1,1,1),vj=c(0.3,0.4,0.4)){
   require(RColorBrewer)
@@ -112,7 +115,7 @@ abundPlots <- function(d,excludeSpp='spp.',fam,gen,spp,
 #                   g=c('Bombus','Bombus','Apis','Hylaeus','Panurgus'),
 #                   s=c('rufocinctus','rufocinctus','mellifera','latifrons','badia'))
 # abundPlots(dat,fam=f,gen=g,spp=s)
-debugonce(abundPlots)
+# debugonce(abundPlots)
 
 #Function to make "Linc-style" rarefaction plots using Vegan
 # Takes matrix of spp abundance, with named sites for each row, and named spp for each column

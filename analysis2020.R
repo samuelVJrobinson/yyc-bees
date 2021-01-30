@@ -17,7 +17,7 @@ dat <- read.csv('./Data/MSSampling_2020.csv',na.strings = '',stringsAsFactors = 
   mutate(Species=gsub('.*sp+\\.\\s*(\\d)','spp. \\1',Species)) %>% 
   mutate(genSpp=paste(Genus,ifelse(grepl('spp\\.',Species),'spp.',Species))) %>% #Remove Subgenus and sp.
   mutate(FlowerGen=gsub('\\s.+','',FlowerSpp)) %>%  
-  mutate(Method=gsub('sweep net','Hand Netting',Method)) %>% 
+  mutate(Method='Hand Netting') %>% 
   mutate(across(c('StartMonth','EndMonth'),~as.numeric(as.roman(.)))) %>% 
   dmy2date(StartDay,StartMonth,StartYear,'StartDay') %>% 
   dmy2date(EndDay,EndMonth,EndYear,'EndDay')
@@ -33,7 +33,8 @@ datLB <- read.csv('./Data/LRBestSampling_2017_2018.csv',na.strings = '',stringsA
                           Method=='net' ~ 'Hand Netting')) %>% 
   mutate(Species=ifelse(is.na(Species),'spp.',Species)) %>% 
   mutate(Species=gsub('^sp+\\.\\s*(\\d)','spp. \\1',Species)) %>% 
-  mutate(genSpp=paste(Genus,gsub('.*sp{1,2}\\.\\s\\d','spp.',Species)))
+  mutate(genSpp=paste(Genus,gsub('.*sp{1,2}\\.\\s\\d','spp.',Species))) %>% 
+  mutate(dataset='LBest')
 
 datRM <- read.csv('./Data/RMSampling_2019.csv',na.strings = c('','NA'),stringsAsFactors = FALSE) %>% 
   mutate(Sex=case_when(Sex=='F' ~ 'female',Sex=='M' ~ 'male')) %>% mutate(Year2=Year) %>% 
@@ -42,9 +43,11 @@ datRM <- read.csv('./Data/RMSampling_2019.csv',na.strings = c('','NA'),stringsAs
   transmute(ID,Lat=Latitude,Lon=Longitude,Method,StartDay,EndDay,Family,Genus,Species,Sex) %>% 
   mutate(Species=gsub('sp{1,2}\\.*(\\d)','spp. \\1',Species)) %>% 
   mutate(Species=gsub('sp+\\.*','spp.',Species)) %>% 
-  mutate(genSpp=paste(Genus,gsub('.*sp{1,2}\\.\\s\\d','spp.',Species)))
+  mutate(genSpp=paste(Genus,gsub('.*sp{1,2}\\.\\s\\d','spp.',Species))) %>% 
+  mutate(dataset='RMiksha')
 
-datMS <- dat %>% transmute(ID=Specimen_ID,Lat,Lon,Method,StartDay,EndDay,Family,Genus,Species,Sex,genSpp)
+datMS <- dat %>% transmute(ID=Specimen_ID,Lat,Lon,Method,StartDay,EndDay,Family,Genus,Species,Sex,genSpp) %>% 
+  mutate(dataset='MSummers')
 
 dat2 <- bind_rows(datLB,datRM,datMS) 
 
@@ -137,3 +140,47 @@ ggsave('./Figures/collectors.png',p4,width=8,height=6)
 p1 <- dat2 %>% filter(!grepl('spp.',genSpp)) %>% 
   abundPlots(fam=Family,gen=Genus,spp=Species,scaleYtext=c(0.6,1,1)) #Lots of Apidae, mainly Bombus
 ggsave('./Figures/beeRichness_all.png',p1,width=6,height=9)
+
+
+# Sampling map ------------------------------------------------------------
+
+library(sf)
+
+maptheme <- theme_bw()+theme(axis.text=element_blank())
+
+#Read in community shapefile
+yycComm <- st_read("./Shapefiles/yycCommunities/yycCommunities.shp") %>% 
+  select(class,name,sector) %>% st_set_crs(4326) %>% 
+  st_transform(3401) %>% #AB 10-TM
+  mutate(isPark=grepl('Park',class))
+
+#Read in water shapefile
+yycWater <- st_read("./Shapefiles/yycHydrology/yycHydrology_poly.shp") %>% 
+  st_set_crs(4326) %>% st_transform(3401) #AB 10-TM
+
+yycMap <- ggplot()+geom_sf(data=yycComm,aes(fill=isPark),col='black',show.legend=FALSE)+
+  geom_sf(data=yycWater,col='deepskyblue',fill='deepskyblue')+
+  scale_fill_manual(values=c('white','forestgreen'))+
+  maptheme
+
+#Assign CRS to dat and dat2
+dat <- dat %>% st_as_sf(coords=c('Lon','Lat')) %>% 
+  st_set_crs(4326) %>% st_transform(3401)
+
+dat2 <- dat2 %>% filter(!is.na(Lat),!is.na(Lon)) %>% 
+  st_as_sf(coords=c('Lon','Lat')) %>% 
+  st_set_crs(4326) %>% st_transform(3401) %>% 
+  #Better labels for facets
+  mutate(dataset=factor(dataset,labels=c('L.Best (N=2043)','M.Summers (N=1058)','R.Miksha (N=1260)')))
+
+#Where did sampling occur (points)?
+p1 <- yycMap + 
+  geom_sf(data=dat2,col='red',size=1)+
+  facet_wrap(~dataset)
+ggsave('./Figures/sampleMap.png',p1,width=9,height=6)
+
+yycMap+geom_sf(data=dat2,aes(col=Method))+
+  scale_colour_manual(values=c('black','purple','darkorange'))
+
+
+
