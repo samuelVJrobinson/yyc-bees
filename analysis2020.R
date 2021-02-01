@@ -152,7 +152,9 @@ library(shadowtext)
 library(ggsn)
 library(ggrepel)
 
-maptheme <- theme_bw()+theme(axis.text=element_blank())
+maptheme <- theme_bw()+theme(axis.text=element_blank(),
+                             axis.ticks = element_blank(),
+                             axis.title=element_blank())
 
 #Read in community shapefile
 yycComm <- st_read("./Shapefiles/yycCommunities/yycCommunities.shp") %>% 
@@ -164,10 +166,10 @@ yycComm <- st_read("./Shapefiles/yycCommunities/yycCommunities.shp") %>%
 yycWater <- st_read("./Shapefiles/yycHydrology/yycHydrology_poly.shp") %>% 
   st_set_crs(4326) %>% st_transform(3401) #AB 10-TM
 
-yycMap <- ggplot()+
-  geom_sf(data=yycComm,aes(fill=isPark),show.legend=FALSE)+
-  geom_sf(data=yycWater,col='deepskyblue',fill='deepskyblue')+
-  scale_fill_manual(values=c('white','forestgreen'))+
+yycMap <- ggplot(data=yycComm)+
+  geom_sf(aes(fill=isPark),show.legend=FALSE)+
+  geom_sf(data=yycWater,col='lightskyblue',fill='lightskyblue')+
+  scale_fill_manual(values=c('white','palegreen3'))+
   maptheme
 
 #Assign CRS to dat and dat2
@@ -175,20 +177,31 @@ dat <- dat %>% st_as_sf(coords=c('Lon','Lat')) %>%
   st_set_crs(4326) %>% st_transform(3401)
 
 dat2 <- dat2 %>% filter(!is.na(Lat),!is.na(Lon)) %>% 
+  # filter(Genus=='Bombus') %>% #Bumblebee-only
   st_as_sf(coords=c('Lon','Lat')) %>% 
   st_set_crs(4326) %>% st_transform(3401) 
 
 #Grouped version of dat2 (grouped by location)
-gDat2 <- dat2 %>% mutate(lon=st_coordinates(.)[,1],lat=st_coordinates(.)[,2]) %>%
-  unite(loc,lat,lon,sep='_') %>% group_by(loc) %>%
-  summarize(Method=first(Method),StartDay=first(StartDay),EndDay=first(EndDay),dataset=first(dataset),
+gDat2 <- dat2 %>%
+  mutate(lon=st_coordinates(.)[,1],lat=st_coordinates(.)[,2]) %>%
+  unite(loc,lat,lon,sep='_') %>% group_by(loc,Method) %>%
+  summarize(StartDay=first(StartDay),EndDay=first(EndDay),dataset=first(dataset),
             nSamp=n(),nGen=length(unique(Genus)),nSpp=length(unique(genSpp))) %>% 
-  ungroup() %>% select(-loc)
+  ungroup() %>% separate(loc,c('lat','lon'),sep='_',convert=TRUE) %>% 
+  mutate(Method=factor(Method,levels=c('Pan Trap','Blue Vane','Hand Netting')))
 
 #Where did sampling occur (points)?
-p1 <- yycMap+geom_sf(data=gDat2,aes(size=nSamp,col=Method))+
+methodCols <- c('darkorange','blue','black')
+
+# #This needs more fiddling to get it to work with geom_sf objects
+# library(scatterpie)
+
+p1 <- yycMap+
+  geom_sf(data=gDat2,aes(size=nSamp,col=Method))+
+  coord_sf(datum=st_crs(3401))+
+  # geom_scatterpie(data=gDat2,aes(x=lon,y=lat),cols='Method',long_format=TRUE)+
   facet_wrap(~dataset)+
-  scale_colour_manual(values=c('blue','black','darkorange'))+
+  scale_colour_manual(values=methodCols)+
   labs(size='Number of Specimens')+
   maptheme+
   theme(legend.position='bottom')+
@@ -212,5 +225,3 @@ p2 <- yycComm %>%
   maptheme
 ggsave('./Figures/sampleMap2.png',p2,width=8,height=10.5)
        
-
-
