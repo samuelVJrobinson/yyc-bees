@@ -49,7 +49,10 @@ datRM <- read.csv('./Data/RMSampling_2019.csv',na.strings = c('','NA'),stringsAs
 datMS <- dat %>% transmute(ID=Specimen_ID,Lat,Lon,Method,StartDay,EndDay,Family,Genus,Species,Sex,genSpp) %>% 
   mutate(dataset='MSummers')
 
-dat2 <- bind_rows(datLB,datRM,datMS) 
+dat2 <- bind_rows(datLB,datRM,datMS) %>% 
+  #Better labels for facets
+  mutate(dataset=factor(dataset,levels=c('LBest','RMiksha','MSummers'),
+                        labels=c('L.Best, 2017-2018 (N=2043)','R.Miksha, 2019 (N=1260)','M.Summers, 2020 (N=1058)')))
 
 rm(datLB,datRM,datMS)
 
@@ -145,6 +148,9 @@ ggsave('./Figures/beeRichness_all.png',p1,width=6,height=9)
 # Sampling map ------------------------------------------------------------
 
 library(sf)
+library(shadowtext)
+library(ggsn)
+library(ggrepel)
 
 maptheme <- theme_bw()+theme(axis.text=element_blank())
 
@@ -158,7 +164,8 @@ yycComm <- st_read("./Shapefiles/yycCommunities/yycCommunities.shp") %>%
 yycWater <- st_read("./Shapefiles/yycHydrology/yycHydrology_poly.shp") %>% 
   st_set_crs(4326) %>% st_transform(3401) #AB 10-TM
 
-yycMap <- ggplot()+geom_sf(data=yycComm,aes(fill=isPark),col='black',show.legend=FALSE)+
+yycMap <- ggplot()+
+  geom_sf(data=yycComm,aes(fill=isPark),show.legend=FALSE)+
   geom_sf(data=yycWater,col='deepskyblue',fill='deepskyblue')+
   scale_fill_manual(values=c('white','forestgreen'))+
   maptheme
@@ -169,18 +176,41 @@ dat <- dat %>% st_as_sf(coords=c('Lon','Lat')) %>%
 
 dat2 <- dat2 %>% filter(!is.na(Lat),!is.na(Lon)) %>% 
   st_as_sf(coords=c('Lon','Lat')) %>% 
-  st_set_crs(4326) %>% st_transform(3401) %>% 
-  #Better labels for facets
-  mutate(dataset=factor(dataset,labels=c('L.Best (N=2043)','M.Summers (N=1058)','R.Miksha (N=1260)')))
+  st_set_crs(4326) %>% st_transform(3401) 
+
+#Grouped version of dat2 (grouped by location)
+gDat2 <- dat2 %>% mutate(lon=st_coordinates(.)[,1],lat=st_coordinates(.)[,2]) %>%
+  unite(loc,lat,lon,sep='_') %>% group_by(loc) %>%
+  summarize(Method=first(Method),StartDay=first(StartDay),EndDay=first(EndDay),dataset=first(dataset),
+            nSamp=n(),nGen=length(unique(Genus)),nSpp=length(unique(genSpp))) %>% 
+  ungroup() %>% select(-loc)
 
 #Where did sampling occur (points)?
-p1 <- yycMap + 
-  geom_sf(data=dat2,col='red',size=1)+
-  facet_wrap(~dataset)
-ggsave('./Figures/sampleMap.png',p1,width=9,height=6)
+p1 <- yycMap+geom_sf(data=gDat2,aes(size=nSamp,col=Method))+
+  facet_wrap(~dataset)+
+  scale_colour_manual(values=c('blue','black','darkorange'))+
+  labs(size='Number of Specimens')+
+  maptheme+
+  theme(legend.position='bottom')+
+  theme(legend.box='vertical')
+ggsave('./Figures/sampleMap1.png',p1,width=10.5,height=8)
 
-yycMap+geom_sf(data=dat2,aes(col=Method))+
-  scale_colour_manual(values=c('black','purple','darkorange'))
-
+p2 <- yycComm %>% 
+  mutate(nRecords=sapply(st_contains(.,dat2),length)) %>%  #Number of bee specimens per community
+  mutate(nRecords=ifelse(nRecords==0,NA,nRecords)) %>% 
+  ggplot()+geom_sf(aes(fill=nRecords),show.legend = FALSE)+
+  geom_sf(data=yycWater,col='deepskyblue',fill='deepskyblue')+
+  geom_shadowtext(aes(x=st_coordinates(st_centroid(yycComm))[,1],y=st_coordinates(st_centroid(yycComm))[,2],
+                      label=ifelse(nRecords==0,NA,nRecords)),size=3)+
+  # geom_text_repel(aes(x=st_coordinates(st_centroid(yycComm))[,1],y=st_coordinates(st_centroid(yycComm))[,2],
+  #                                         label=ifelse(nRecords==0,NA,nRecords)),
+  #                 force_pull=10,force=0.1,color='white',bg.color='black',bg.r=0.1,size=3)+
+  scalebar(data=yycComm,location='bottomleft',dist=5,dist_unit='km',transform=FALSE,height=0.01,st.size=3) +
+  north(data=yycComm,location='topleft',symbol=3)+
+  labs(x=NULL,y=NULL,title='Number of Specimens per Community')+
+  scale_fill_distiller(palette="OrRd",direction=1,na.value="white")+
+  maptheme
+ggsave('./Figures/sampleMap2.png',p2,width=8,height=10.5)
+       
 
 
