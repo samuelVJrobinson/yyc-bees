@@ -193,13 +193,15 @@ gDat2 <- dat2 %>%
 #Where did sampling occur (points)?
 methodCols <- c('darkorange','blue','black')
 
-# #This needs more fiddling to get it to work with geom_sf objects
+# Update: this package is super fragile. It breaks if geometry column is present, and is very fiddly about names.
+#   Also, pie charts aren't projected as vector objects, and warp if the map aspect changes.
+#   Might be able to steal the guy's code and jerry-rig something, but it's probably not worth it.
 # library(scatterpie)
 
 p1 <- yycMap+
   geom_sf(data=gDat2,aes(size=nSamp,col=Method))+
-  coord_sf(datum=st_crs(3401))+
-  # geom_scatterpie(data=gDat2,aes(x=lon,y=lat),cols='Method',long_format=TRUE)+
+  # coord_sf(datum=st_crs(3401))+
+  geom_scatterpie(data=gDat2,aes(x=lon,y=lat),cols='Method',long_format=TRUE)+
   facet_wrap(~dataset)+
   scale_colour_manual(values=methodCols)+
   labs(size='Number of Specimens')+
