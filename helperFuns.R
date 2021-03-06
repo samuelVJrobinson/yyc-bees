@@ -2,13 +2,15 @@
 
 #Function to make bee abundance plots from data frame
 # fam,gen,spp = names of family, genus, species
+# showSpp = should "spp." be shown?
 # colSet = colour set to use
 # scaleYtext = scale for y text on species, genus, family plots (reverse order)
 # vj = vertical adjustment for y-axis labels
+# excludeSpp = regular expression saying what to call "spp." (no species ID)
 
 #TO DO: set excludeSpp to remove from records Species (but not Genus,Family), rather than just
 # replacing them
-abundPlots <- function(d,excludeSpp='spp.',fam,gen,spp,
+abundPlots <- function(d,excludeSpp='spp\\.',fam,gen,spp,showSpp=FALSE,
                        colSet='Set1',scaleYtext=c(1,1,1),vj=c(0.3,0.4,0.4)){
   require(RColorBrewer)
   require(tidyverse)
@@ -18,8 +20,10 @@ abundPlots <- function(d,excludeSpp='spp.',fam,gen,spp,
   
   #Converts fam, gen, spp to characters
   d <- d %>% mutate(across(c({{fam}},{{gen}},{{spp}}),as.character)) %>% 
-    #Is spp properly listed?
-    mutate(noSpp=is.na({{spp}}) | grepl(gsub('\\.','\\\\.',excludeSpp),{{spp}}))
+    #Find specimens with no species ID ("spp")
+    mutate(noSpp=is.na({{spp}}) | grepl(excludeSpp,{{spp}}))
+  
+  if(showSpp) d <- d %>% mutate(noSpp=FALSE)
   
   #Deparsed family string
   famStr <- deparse(substitute(fam))
@@ -28,7 +32,7 @@ abundPlots <- function(d,excludeSpp='spp.',fam,gen,spp,
   d <- d %>% mutate(genSpp=case_when(
     is.na({{gen}}) ~ paste({{fam}},' spp.'), #If no genus, use "Family spp."
     #If no species, append "spp." (also deals with escaped periods)
-    noSpp ~ paste({{gen}},' spp.'),
+    noSpp ~ paste({{gen}},'spp.',sep=' '),
     #If genus and spp !NA, paste together
     !noSpp ~ paste({{gen}},{{spp}},sep=' ')
   ))
@@ -38,13 +42,13 @@ abundPlots <- function(d,excludeSpp='spp.',fam,gen,spp,
     mutate(cols=brewer.pal(5,colSet)) #Colour scheme for families
   
   #Data for Species abundance plot
-  plotDat <- d %>% filter({{spp}}!=excludeSpp) %>%  #Data for histograms
+  plotDat <- d %>% filter(!noSpp) %>%  #Data for histograms
     count({{fam}},genSpp) %>% #Count Family and genSpp occurrences
     arrange(desc({{fam}}),n) %>% ungroup() %>% #Arrange by Family
     mutate(genSpp=factor(genSpp,level=genSpp))
   
   #Data for coloured background rectangles
-  rectDat <- d %>% filter({{spp}}!='spp.') %>%  
+  rectDat <- d %>% filter(!noSpp) %>%  
     count({{fam}},genSpp) %>%  #Count Family and genSpp occurrences
     group_by({{fam}}) %>% summarize(nSpp=n()) %>% ungroup() %>% 
     arrange(desc({{fam}})) %>% #Arrange by Family
@@ -111,10 +115,11 @@ abundPlots <- function(d,excludeSpp='spp.',fam,gen,spp,
 }
 
 # #Test data
-# dat <- data.frame(f=c('Apidae','Apidae','Apidae','Colletidae','Andrenidae'),
-#                   g=c('Bombus','Bombus','Apis','Hylaeus','Panurgus'),
-#                   s=c('rufocinctus','rufocinctus','mellifera','latifrons','badia'))
-# abundPlots(dat,fam=f,gen=g,spp=s)
+# dat <- data.frame(f=c('Apidae','Apidae','Apidae','Colletidae','Andrenidae','Andrenidae'),
+#                   g=c('Bombus','Bombus','Apis','Hylaeus','Panurgus','Panurgus'),
+#                   s=c('rufocinctus','rufocinctus','mellifera','latifrons','badia','spp.'))
+# abundPlots(dat,fam=f,gen=g,spp=s,showSpp=FALSE)
+# abundPlots(dat,fam=f,gen=g,spp=s,showSpp=TRUE)
 # debugonce(abundPlots)
 
 #Function to make "Linc-style" rarefaction plots using Vegan
