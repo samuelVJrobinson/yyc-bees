@@ -2,11 +2,11 @@
 
 #Function to make bee abundance plots from data frame
 # fam,gen,spp = names of family, genus, species
-# showSpp = should "spp." be shown?
+# showSpp = should morphospecies be shown?
 # colSet = colour set to use
 # scaleYtext = scale for y text on species, genus, family plots (reverse order)
 # vj = vertical adjustment for y-axis labels
-# excludeSpp = regular expression saying what to call "spp." (no species ID)
+# excludeSpp = regular expression saying what to call "spp." (morphospecies)
 
 #TO DO: set excludeSpp to remove from records Species (but not Genus,Family), rather than just
 # replacing them
@@ -127,13 +127,12 @@ abundPlots <- function(d,excludeSpp='spp\\.',fam,gen,spp,showSpp=FALSE,
 # Ncol,Nrow = number of columns/rows for facets
 # measType = 'both','Chao1','ACE','none' - Type of diversity predictor
 # textRange = proportion upper/lower bounds for text display. 
-#       Can be 2 values overall, or 2 x site (min,max,min,max...)
+#       Can be 2 values overall, or 2 x N sites (min1,max1,min2,max2,...,minN,maxN)
 # seMult = multiplier for SE
-# rowOrder = should sites in facets be ordered 'asis', by diversity ('estDiv'), or # of samples ('Nsamp')?
+# rowOrder = should sites in facets be ordered in row order ('asis'), by diversity ('estDiv'), or # of samples ('Nsamp')?
 
 #TO DO: 
 # 1) How does function respond to empty rows in matrix? 
-# 2) Label location adjustments are tied to initial row order, not sorted row order
 
 siteRarePlots <- function(d,Ncol=NA,Nrow=NA,measType='both',textRange=c(0.1,0.4),seMult=1,rowOrder='asis'){
   require(vegan)
@@ -172,22 +171,8 @@ siteRarePlots <- function(d,Ncol=NA,Nrow=NA,measType='both',textRange=c(0.1,0.4)
                        both=max(c(S.chao1+se.chao1,S.ACE+se.ACE,na.rm=TRUE)),
                        Chao1=max(S.chao1+se.chao1,na.rm=TRUE),
                        ACE=max(S.ACE+se.ACE,na.rm=TRUE))) %>%  #Maximum y value
-    mutate(ymax=ifelse(is.na(ymax),S.obs,ymax)) #If NAs made it through
-  
-  if(length(textRange)==2){ #If 2 range values provided
-    graphText2 <- graphText2 %>% 
-      mutate(ylwr=ymax*min(textRange),yupr=ymax*max(textRange))
-    } else if(length(textRange)==nrow(d)*2){ #If nrow(d)*2 range values provided (min,max,min,max,...)
-      graphText2 <- graphText2 %>% 
-        mutate(ylwr=textRange[seq(1,nrow(d)*2-1,2)],
-               yupr=textRange[seq(2,nrow(d)*2,2)]) %>% 
-        mutate(yupr=yupr*ymax,ylwr=ylwr*ymax)
-    } else {
-      stop('textRange must be of length 2 or nrow(d)*2')
-    }
-  
-  graphText2 <- graphText2 %>% #Trim display variables
-    mutate_at(vars(S.chao1:se.ACE),function(x) trimws(format(round(x,2),nsmall=2)))
+    mutate(ymax=ifelse(is.na(ymax),S.obs,ymax)) %>% #If NAs made it through
+    mutate_at(vars(S.chao1:se.ACE),function(x) trimws(format(round(x,2),nsmall=2))) #Trim display variables
   
   #Re-order sites as necessary
   newOrder <- switch(rowOrder,
@@ -196,6 +181,21 @@ siteRarePlots <- function(d,Ncol=NA,Nrow=NA,measType='both',textRange=c(0.1,0.4)
          Nsamp=order(graphText2$N,decreasing=TRUE),
          asis=1:nrow(d))
   rareDat <- rareDat %>% mutate(Site=factor(Site,levels=levels(Site)[newOrder]))
+  graphText2 <- graphText2 %>% mutate(Site=factor(Site,levels=levels(Site)[newOrder])) %>% 
+    arrange(Site)
+  
+  if(length(textRange)==2){ #If 2 range values provided
+    graphText2 <- graphText2 %>% 
+      mutate(ylwr=ymax*min(textRange),yupr=ymax*max(textRange))
+  } else if(length(textRange)==nrow(d)*2){ #If nrow(d)*2 range values provided (min,max,min,max,...)
+    graphText2 <- graphText2 %>% 
+      mutate(ylwr=textRange[seq(1,nrow(d)*2-1,2)],
+             yupr=textRange[seq(2,nrow(d)*2,2)]) %>% 
+      mutate(yupr=yupr*ymax,ylwr=ylwr*ymax)
+  } else {
+    stop('textRange must 2 or nrow(d)* 2 long')
+  }
+  
 
   p1 <- ggplot(data=rareDat)+
     facet_wrap(~Site,nrow=Nrow,ncol=Ncol) +
