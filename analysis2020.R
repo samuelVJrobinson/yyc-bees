@@ -16,6 +16,7 @@ dat <- read.csv('./Data/MSSampling_2020.csv',na.strings = '',stringsAsFactors = 
   filter(!is.na(Family)) %>% 
   mutate(Species=gsub('.*sp+\\.\\s*(\\d)','spp. \\1',Species)) %>% 
   mutate(genSpp=paste(Genus,ifelse(grepl('spp\\.',Species),'spp.',Species))) %>% #Remove Subgenus and sp.
+  mutate(FlowerSpp=gsub('sp\\.','spp.',FlowerSpp)) %>% 
   mutate(FlowerGen=gsub('\\s.+','',FlowerSpp)) %>%  
   mutate(Method='Hand Netting') %>% 
   mutate(across(c('StartMonth','EndMonth'),~as.numeric(as.roman(.)))) %>% 
@@ -59,7 +60,7 @@ rm(datLB,datRM,datMS)
 # Basic richness plots (MS data) ----------------------------------------------------------
 
 #What bees were caught?
-p1 <- abundPlots(dat,fam=Family,gen=Genus,spp=Species) #Lots of Apidae, mainly Bombus
+p1 <- abundPlots(dat,fam=Family,gen=Genus,spp=Species,showSpp=TRUE) #Lots of Apidae, mainly Bombus
 ggsave('./Figures/beeRichness.png',p1,width=6,height=9)
 
 #What flowers were visited the most/had the most species visit them?
@@ -67,19 +68,39 @@ ggsave('./Figures/beeRichness.png',p1,width=6,height=9)
 p2a <- dat %>% filter(!is.na(FlowerSpp)) %>% group_by(FlowerSpp) %>% summarize(N=n(),Nspp=length(unique(genSpp))) %>% 
   arrange(desc(N)) %>% mutate(FlowerSpp=factor(FlowerSpp,levels=rev(FlowerSpp))) %>%   
   pivot_longer(N:Nspp,names_to='Ntype') %>% 
-  mutate(Ntype=factor(Ntype,labels=c('Number of Specimens','Number of Species'))) %>% 
+  mutate(Ntype=factor(Ntype,labels=c('Number of Specimens','Number of Bee Species'))) %>% 
   ggplot(aes(x=FlowerSpp,y=value))+geom_col()+facet_wrap(~Ntype,scales='free_x')+
     coord_flip()+labs(y='Number of Bees Collected',x='Flower Species')
 
 p2b <- dat %>% filter(!is.na(FlowerGen)) %>% group_by(FlowerGen) %>% summarize(N=n(),Nspp=length(unique(genSpp))) %>% 
   arrange(desc(N)) %>% mutate(FlowerGen=factor(FlowerGen,levels=rev(FlowerGen))) %>%   
   pivot_longer(N:Nspp,names_to='Ntype') %>% 
-  mutate(Ntype=factor(Ntype,labels=c('Number of Specimens','Number of Species'))) %>% 
+  mutate(Ntype=factor(Ntype,labels=c('Number of Specimens','Number of Bee Species'))) %>% 
   ggplot(aes(x=FlowerGen,y=value))+geom_col()+facet_wrap(~Ntype,scales='free_x')+
   coord_flip()+labs(y='Number of Bees Collected',x='Flower Genus')
 
 ggsave('./Figures/flwSppBeeCounts.png',p2a,width=6,height=9)
 ggsave('./Figures/flwGenBeeCounts.png',p2b,width=6,height=9)
+
+#What bees were the most common visitors/ had the most floral hosts
+
+p2c <- dat %>% filter(!is.na(genSpp)) %>% group_by(genSpp) %>% summarize(N=n(),Nspp=length(unique(FlowerSpp))) %>% 
+  arrange(desc(N)) %>% mutate(genSpp=factor(genSpp,levels=rev(genSpp))) %>%   
+  pivot_longer(N:Nspp,names_to='Ntype') %>% 
+  mutate(Ntype=factor(Ntype,labels=c('Number of Specimens','Number of Flower Species'))) %>% 
+  ggplot(aes(x=genSpp,y=value))+geom_col()+facet_wrap(~Ntype,scales='free_x')+
+  coord_flip()+labs(y='Number of Bees Collected',x='Bee Species')
+
+p2d <- dat %>% filter(!is.na(Genus)) %>% group_by(Genus) %>% summarize(N=n(),Nspp=length(unique(FlowerSpp))) %>% 
+  arrange(desc(N)) %>% mutate(Genus=factor(Genus,levels=rev(Genus))) %>%   
+  pivot_longer(N:Nspp,names_to='Ntype') %>% 
+  mutate(Ntype=factor(Ntype,labels=c('Number of Specimens','Number of Flower Species'))) %>% 
+  ggplot(aes(x=Genus,y=value))+geom_col()+facet_wrap(~Ntype,scales='free_x')+
+  coord_flip()+labs(y='Number of Bees Collected',x='Bee Genus')
+
+ggsave('./Figures/beeSppFlwCounts.png',p2c,width=6,height=9)
+ggsave('./Figures/beeGenFlwCounts.png',p2d,width=6,height=9)
+
 
 #Number of species and specimens
 dat %>% group_by(Family,Genus) %>% summarize(nSpecimens=n(),nSpp=length(unique(genSpp)))
@@ -93,24 +114,47 @@ topFlw <- dat %>% filter(!is.na(FlowerSpp)) %>% count(FlowerSpp) %>%
   arrange(desc(n)) %>% slice(1:12) %>% pull(FlowerSpp)
 
 #Pivot into a matrix
-datMat <- dat %>% filter(FlowerSpp %in% topFlw) %>% 
+datMat <- dat %>% 
   count(FlowerSpp,genSpp) %>% 
   pivot_wider(names_from=genSpp,values_from=n,values_fill=0) %>% 
-  mutate(FlowerSpp=factor(FlowerSpp,levels=topFlw)) %>% arrange(FlowerSpp) %>% 
+  filter(FlowerSpp %in% topFlw) %>%  mutate(FlowerSpp=factor(FlowerSpp,levels=topFlw)) %>% arrange(FlowerSpp) %>% 
   column_to_rownames('FlowerSpp') %>% 
   as.matrix(.)
 
-p3 <- siteRarePlots(datMat,Ncol=4,Nrow=3,measType='Chao1',textRange=c(rep(c(0.5,0.6),12)),rowOrder='Ndiv')
+tr <- c(rep(c(0.15,0.3),6),rep(c(0.75,0.9),6))
+p3 <- siteRarePlots(datMat,Ncol=4,Nrow=3,measType='Chao1',textRange=tr,rowOrder='Ndiv')
 ggsave('./Figures/visitorRichness.png',p3,width=8,height=9)
 
 #Bombus only
-p3a <- datMat[,grepl('Bombus',colnames(datMat))] %>% 
-  siteRarePlots(.,Ncol=4,Nrow=3,measType='Chao1',textRange=c(rep(c(0.5,0.6),12)),rowOrder='Ndiv')+
+topFlw <- dat %>% filter(!is.na(FlowerSpp),Genus=='Bombus') %>% count(FlowerSpp) %>% 
+  arrange(desc(n)) %>% slice(1:12) %>% pull(FlowerSpp)
+
+datMat <- dat %>% filter(Genus=='Bombus') %>% 
+  count(FlowerSpp,genSpp) %>% 
+  pivot_wider(names_from=genSpp,values_from=n,values_fill=0) %>% 
+  filter(FlowerSpp %in% topFlw) %>%  mutate(FlowerSpp=factor(FlowerSpp,levels=topFlw)) %>% arrange(FlowerSpp) %>% 
+  column_to_rownames('FlowerSpp') %>% 
+  as.matrix(.)
+
+tr <- c(rep(c(0.15,0.3),4),rep(c(0.75,0.9),8))
+p3a <- datMat %>% 
+  siteRarePlots(.,Ncol=4,Nrow=3,measType='Chao1',textRange=tr,rowOrder='Ndiv')+
   labs(title='Bombus only')
 
 #Non-Bombus
-p3b <- datMat[,!grepl('Bombus',colnames(datMat))] %>% 
-  siteRarePlots(.,Ncol=4,Nrow=3,measType='Chao1',textRange=c(rep(c(0.5,0.6),12)),rowOrder='Ndiv')+
+topFlw <- dat %>% filter(!is.na(FlowerSpp),Genus!='Bombus') %>% count(FlowerSpp) %>% 
+  arrange(desc(n)) %>% slice(1:12) %>% pull(FlowerSpp)
+
+datMat <- dat %>% filter(Genus!='Bombus') %>% 
+  count(FlowerSpp,genSpp) %>% 
+  pivot_wider(names_from=genSpp,values_from=n,values_fill=0) %>% 
+  filter(FlowerSpp %in% topFlw) %>%  mutate(FlowerSpp=factor(FlowerSpp,levels=topFlw)) %>% arrange(FlowerSpp) %>% 
+  column_to_rownames('FlowerSpp') %>% 
+  as.matrix(.)
+
+tr <- c(rep(c(0.15,0.3),2),rep(c(0.75,0.9),10))
+p3b <- datMat %>% 
+  siteRarePlots(.,Ncol=4,Nrow=3,measType='Chao1',textRange=tr,rowOrder='Ndiv')+
   labs(title='Non-Bombus only')
 
 ggsave('./Figures/visitorRichness_bombus.png',p3a,width=8,height=9)
@@ -140,8 +184,8 @@ ggsave('./Figures/collectors.png',p4,width=8,height=6)
 
 # Basic richness plots (LB+RM+MS data - bees only) ---------------------------------------
 
-p1 <- dat2 %>% filter(!grepl('spp.',genSpp)) %>% 
-  abundPlots(fam=Family,gen=Genus,spp=Species,scaleYtext=c(0.6,1,1)) #Lots of Apidae, mainly Bombus
+p1 <- dat2 %>% #filter(!grepl('spp.',genSpp)) %>% 
+  abundPlots(fam=Family,gen=Genus,spp=Species,scaleYtext=c(0.6,1,1),showSpp=FALSE) #Lots of Apidae, mainly Bombus
 ggsave('./Figures/beeRichness_all.png',p1,width=6,height=9)
 
 
@@ -170,6 +214,8 @@ yycMap <- ggplot(data=yycComm)+
   geom_sf(aes(fill=isPark),show.legend=FALSE)+
   geom_sf(data=yycWater,col='lightskyblue',fill='lightskyblue')+
   scale_fill_manual(values=c('white','palegreen3'))+
+  scalebar(data=yycComm,location='bottomleft',dist=5,dist_unit='km',transform=FALSE)+
+  north(data=yycComm,location='topleft',symbol=4)+
   maptheme
 
 #Assign CRS to dat and dat2
@@ -201,7 +247,7 @@ methodCols <- c('darkorange','blue','black')
 p1 <- yycMap+
   geom_sf(data=gDat2,aes(size=nSamp,col=Method))+
   # coord_sf(datum=st_crs(3401))+
-  geom_scatterpie(data=gDat2,aes(x=lon,y=lat),cols='Method',long_format=TRUE)+
+  # geom_scatterpie(data=gDat2,aes(x=lon,y=lat),cols='Method',long_format=TRUE)+
   facet_wrap(~dataset)+
   scale_colour_manual(values=methodCols)+
   labs(size='Number of Specimens')+
@@ -226,4 +272,13 @@ p2 <- yycComm %>%
   scale_fill_distiller(palette="OrRd",direction=1,na.value="white")+
   maptheme
 ggsave('./Figures/sampleMap2.png',p2,width=8,height=10.5)
-       
+
+#2020 map only       
+p3 <- yycMap+
+  geom_sf(data=filter(gDat2,grepl('2020',dataset)),aes(size=nSamp))+
+  scale_colour_manual(values=methodCols)+
+  labs(size='Number of Specimens')+
+  maptheme+
+  theme(legend.position='bottom')+
+  theme(legend.box='vertical')
+ggsave('./Figures/sampleMap3.png',p3,width=10.5,height=8)

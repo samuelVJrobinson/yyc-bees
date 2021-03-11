@@ -57,6 +57,8 @@ abundPlots <- function(d,excludeSpp='spp\\.',fam,gen,spp,showSpp=FALSE,
     mutate(xmin=0,xmax=max(plotDat$n)) %>% 
     left_join(famCols,by=famStr)
   
+  ttl <- paste0('Species (',nrow(plotDat),' total)') #Title text
+  
   #Species plot
   sppPlot <- ggplot()+ geom_col(data=plotDat,aes(n,genSpp))+ #Make columns
     geom_rect(data=rectDat, #Make background rectangles
@@ -65,7 +67,7 @@ abundPlots <- function(d,excludeSpp='spp\\.',fam,gen,spp,showSpp=FALSE,
     geom_col(data=plotDat,aes(n,genSpp,fill={{fam}}),show.legend = FALSE)+ #Columns (again)
     geom_text(data=rectDat,aes(x=xmax*0.9,y=ymid,label={{fam}}),hjust=1)+ #Add text
     theme(axis.text.y=element_text(vjust=vj[1],size=8*scaleYtext[1]))+ #Change theme
-    labs(y=NULL,x='Number of specimens',title='Species')+
+    labs(y=NULL,x='Number of specimens',title=ttl)+
     scale_fill_manual(values=rev(as.character(rectDat$cols)))
   
   #Data for Genus abundance plots
@@ -84,6 +86,8 @@ abundPlots <- function(d,excludeSpp='spp\\.',fam,gen,spp,showSpp=FALSE,
     mutate(xmin=0,xmax=max(plotDat$n)) %>% 
     left_join(famCols,by=famStr)
   
+  ttl <- paste0('Genera (',nrow(plotDat),' total)') #Title text
+  
   #Genus plot
   genPlot <- ggplot()+ geom_col(data=plotDat,aes(n,{{gen}}))+ 
     geom_rect(data=rectDat,
@@ -92,7 +96,7 @@ abundPlots <- function(d,excludeSpp='spp\\.',fam,gen,spp,showSpp=FALSE,
     geom_col(data=plotDat,aes(n,{{gen}},fill={{fam}}),show.legend = FALSE)+
     geom_text(data=rectDat,aes(x=xmax*0.9,y=ymid,label={{fam}}),hjust=1)+
     theme(axis.text.y=element_text(vjust=vj[2],size=8*scaleYtext[2]))+
-    labs(y=NULL,x='Number of specimens',title='Genera')+
+    labs(y=NULL,x='Number of specimens',title=ttl)+
     scale_fill_manual(values=rev(as.character(rectDat$cols)))
   
   #Family abundance plots
@@ -102,11 +106,13 @@ abundPlots <- function(d,excludeSpp='spp\\.',fam,gen,spp,showSpp=FALSE,
     arrange(desc({{fam}}),n) %>%
     mutate({{fam}}:=factor({{fam}},level={{fam}}))
   
+  ttl <- paste0('Families (',nrow(plotDat),' total)') #Title text
+  
   #Make Family plot
   famPlot <- ggplot()+ geom_col(data=plotDat,aes(n,{{fam}}))+ #Make plot
     geom_col(data=plotDat,aes(n,{{fam}},fill={{fam}}),show.legend = FALSE)+
     theme(axis.text.y=element_text(vjust=vj[3],size=8*scaleYtext[3]))+
-    labs(y=NULL,x='Number of specimens',title='Families')+
+    labs(y=NULL,x='Number of specimens',title=ttl)+
     scale_fill_manual(values=as.character(plotDat$cols))
   
   #Put all plots together into a single plot
