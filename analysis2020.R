@@ -254,7 +254,7 @@ p1 <- yycMap+
   maptheme+
   theme(legend.position='bottom')+
   theme(legend.box='vertical')
-ggsave('./Figures/sampleMap1.png',p1,width=10.5,height=8)
+ggsave('./Figures/Maps/sampleMap1.png',p1,width=10.5,height=8)
 
 p2 <- yycComm %>% 
   mutate(nRecords=sapply(st_contains(.,dat2),length)) %>%  #Number of bee specimens per community
@@ -271,7 +271,7 @@ p2 <- yycComm %>%
   labs(x=NULL,y=NULL,title='Number of Specimens per Community')+
   scale_fill_distiller(palette="OrRd",direction=1,na.value="white")+
   maptheme
-ggsave('./Figures/sampleMap2.png',p2,width=8,height=10.5)
+ggsave('./Figures/Maps/sampleMap2.png',p2,width=8,height=10.5)
 
 #2020 map only       
 p3 <- yycMap+
@@ -281,4 +281,4 @@ p3 <- yycMap+
   maptheme+
   theme(legend.position='bottom')+
   theme(legend.box='vertical')
-ggsave('./Figures/sampleMap3.png',p3,width=10.5,height=8)
+ggsave('./Figures/Maps/sampleMap3.png',p3,width=10.5,height=8)
