@@ -57,6 +57,13 @@ dat2 <- bind_rows(datLB,datRM,datMS) %>%
 
 rm(datLB,datRM,datMS)
 
+# Bee checklist (LB+RM+MS data) ------------------------------------------------
+
+dat2 %>% count(Family,genSpp,dataset) %>% 
+  pivot_wider(names_from = dataset, values_from = n, values_fill = 0) %>% 
+  write.csv(.,file='./Bee_Checklist.csv',row.names=FALSE)
+
+
 # Basic richness plots (MS data) ----------------------------------------------------------
 
 #What bees were caught?
